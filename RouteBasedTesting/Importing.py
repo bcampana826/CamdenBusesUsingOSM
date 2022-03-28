@@ -137,5 +137,6 @@ plt.plot(listToTry, data)  # Plot some data on the axes.
 plt.title("# of Chargers for Different Batteries")
 plt.xlabel("Battery Distance in Miles")
 plt.ylabel("Number of Chargers needed")
+
 plt.show()
 
