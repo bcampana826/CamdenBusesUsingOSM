@@ -28,6 +28,8 @@ def greedyChargingArrays(buses, city, battery):
             inOrder.append(largest)
             top_chargers.remove(largest)
 
+
+
     testing = True
     count = 0
     while testing:
@@ -49,9 +51,6 @@ def greedyChargingArrays(buses, city, battery):
             return chargers
 
 
-
-
-
 def validChargerLists(bus, city, chargers):
     """
     :param bus: Buses route over city nodes
@@ -60,7 +59,6 @@ def validChargerLists(bus, city, chargers):
     """
     valid_answers = []
     chargers_on_route = intersection(bus, chargers, True)
-
 
     # We are going to iterate over each charger being on and off
     # doing this binary-ily? so one binary number per charger
@@ -82,7 +80,7 @@ def validChargerLists(bus, city, chargers):
         for p in range(len(bus['route']) - 1):
 
             # subtract the energy cost from starting location to next spot
-            test_energy -= int(city[bus['route'][p]].get_edge(int(bus['route'][p + 1])))
+            test_energy -= float(city[bus['route'][p]].get_edge(float(bus['route'][p + 1])))
 
             if test_energy < 0:
                 # bus ran out of energy before reaching recharge
@@ -99,6 +97,72 @@ def validChargerLists(bus, city, chargers):
 
     return valid_answers
 
+def smartChargers(buses, world, battery):
+
+    chargerList = []
+
+
+    all_chargers = []
+    top_chargers = []
+
+    for b in range(len(buses)):
+        for p in buses[b]:
+            if p in top_chargers:
+                all_chargers.append(p)
+            else:
+                top_chargers.append(p)
+                all_chargers.append(p)
+
+    inOrder = []
+
+    while len(top_chargers) > 0:
+        largest = -1
+        count = -1
+        for t in top_chargers:
+            if all_chargers.count(t) > count:
+                largest = t
+                count = all_chargers.count(t)
+
+        if largest != -1:
+            inOrder.append(largest)
+            top_chargers.remove(largest)
+
+    while len(inOrder) > 0:
+        charger = inOrder.pop(0)
+        chargerList.append(charger)
+        for b in buses:
+            smartRemoving(b,chargerList,world,battery,inOrder)
+
+    return chargerList
+
+def smartRemoving(bus, chargerList, world, battery, inOrderList):
+
+    #follow the bus path, remove from inOrderList
+    energy = 0
+    for i in range(len(bus)-1):
+
+        if i != 0:
+            energy -= world[world.index(bus[i])].get_edge(i+1)
+            if energy < 0:
+                energy = 0
+
+        if bus[i] in chargerList:
+            energy = battery
+            if bus[i] in inOrderList:
+                inOrderList.remove(bus[i])
+
+        if energy > 0:
+            if bus[i] in inOrderList:
+                inOrderList.remove(bus[i])
+
+
+
+
+
+
+
+
+
 
 def intersection(lst1, city):
     nodes = []
@@ -113,3 +177,4 @@ def intersection(lst1, lst2, boolean):
 
     lst3 = [value for value in lst1['route'] if value in lst2]
     return lst3
+

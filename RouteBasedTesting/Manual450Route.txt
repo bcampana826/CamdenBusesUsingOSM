@@ -1,0 +1,72 @@
+450
+Upper Level by Old Navy/Lens Crafters >> 0.0
+Haddonfield Rd at Garden Park Blvd. >> 1.1
+Haddonfield Rd at Towne Center Drive >> 0.3
+Rt-70 850'W Of Haddonfield Rd. >> 0.5
+Cornell Ave 335'N Of King Ave >> 0.7
+South Shoprite Rd 50' W Of West Shoprite Rd >> 0.1
+Garden State Pavilion/Njt Rail Station >> 0.1
+Cornell Ave 50' E Of West Shoprite Rd >> 0.1
+Cornell Ave at Executive Campus Dr >> 0.2
+King Ave 365' W Of Union Ave >> 0.4
+King Ave at Executive Dr >> 0.2
+Cuthbert Blvd at Fern Ave >> 1.0
+Cuthbert Blvd at Emerald Ave >> 0.3
+Haddon Ave at Cuthbert Blvd >> 0.3
+Haddon Ave at Chestnut Ave >> 0.4
+Crystal Lake Ave at Atlantic Ave >> 0.3
+Crystal Lake Ave at East Park Blvd >> 0.2
+Crystal Lake Ave at Pyle Ave >> 0.2
+Macarthur Blvd at Glenwood Ave >> 0.1
+Macarthur Blvd at Briarwood Ave >> 0.1
+Macarthur Blvd 500' E Of Cuthbert Blvd >> 0.3
+Cuthbert Blvd at Heather Lane >> 0.4
+Cuthbert Blvd at Johnson Ave >> 0.2
+Us-30 at Capitol Ave >> 0.2
+Nicholson Rd at Beloit Ave >> 0.4
+Nicholson Rd at Wyoming Ave >> 0.1 
+Nicholson Rd at Central Ave >> 0.1
+Nicholson Rd at Payson Ave >> 0.1
+Nicholson Rd at Brittin Ave >> 0.1
+Black Horse Pike 60' N Of Kennedy Dr. >> 0.6
+Black Horse Pike at Elm St >> 0.5
+Collings Rd at Atlanta St >> 0.2
+Collings Rd at Congress Rd >> 0.1
+Collings Rd at Merrimac Rd >> 0.1
+Alabama Rd at Roanoke St >> 0.1
+Alabama Rd at Octagon St >> 0.1
+Yorkship Sq at E America Rd >> 0.1
+Yorkship Square at W America Rd >> 0.1
+Kearsage Rd at Octagon St >> 0.1
+Kearsage Rd at Collings Rd >> 0.1
+Collings Rd at New Jersey Rd >> 0.2
+Collings Rd at Chesapeake Rd >> 0.1
+Collings Rd at Merrimac Rd >> 0.2
+Collings Rd at Mt Ephraim Ave >> 0.2
+Mt Ephraim Ave 514'N Of Grant Ave >> 0.2
+Mt Ephraim Ave 800's Of Fairview St >> 0.2
+Fairview St at Denfield St >> 0.3
+Fairview St at Patton St >> 0.1
+Fairview St at Arnold St >> 0.1
+Morgan St at Lake Shore Dr >> 0.1
+Morgan St at S 9th St >> 0.1
+Morgan St at S 8th St >> 0.1
+Broadway at Morgan Blvd >> 0.4
+Broadway 700's Of Chelton Ave >> 0.2
+Broadway at Chelton Ave >> 0.1
+Broadway at Jefferson Ave >> 0.1
+Broadway at Viola St >> 0.1
+Broadway at Ferry Ave >> 0.1
+Broadway at Carl Miller Blvd >> 0.1
+Broadway at Jackson St >> 0.1
+Broadway at Everett St >> 0.1
+Broadway at Atlantic Ave >> 0.1
+Broadway at Kaighn Ave >> 0.1
+Broadway at Walnut St >> 0.2
+Broadway at Spruce St >> 0.1
+Broadway at Pine St >> 0.1
+Broadway at Royden St >> 0.1
+Broadway at Berkeley St >> 0.1
+Broadway at Benson St >> 0.1
+Broadway at Stevens St >> 0.1
+Broadway In Front Of Wrtc >> 0.1
