@@ -1,0 +1,35 @@
+453
+Ferry Ave Patco - 0.0
+Davis St 240' N of Station Drive# - 0.2
+Ferry Ave at Evergreen Ave - 0.1
+White Horse Pike (Cr606) 110' W Of Park Avenue - 0.3
+Woodlynne Ave at Evergreen Ave - 0.3
+Woodlynne Ave at Cooper Ave  - 0.1
+Woodlynne Ave at Powelton Ave - 0.2
+Mt. Ephraim Ave at Woodlynne Ave - 0.2
+Mt Ephraim Ave at Ferry Ave - 0.1
+MT Ephraim Ave at Sayrs Ave - 0.2
+Mt Ephraim Ave at Decatur St - 0.1
+Carl Miller Blvd at Maryland St - 0.1
+Carl Miller Blvd at Kolo St - 0.1
+Carl Miller Blvd at S 10th St - 0.1
+Carl Miller Blvd at S 9th St - 0.1
+Carl Miller Blvd at S 8th St - 0.1
+Ferry Ave 145'W Of 7th Street - 0.3
+Carl Miller Blvd at S 6th St - 0.3
+Broadway at Jackson St - 0.2
+Broadway at Everett St - 0.1
+Broadway at Atlantic Ave - 0.1
+Broadway at Kaighn Ave - 0.1
+Broadway at Walnut St - 0.2
+Broadway at Spruce St - 0.1
+Broadway at Pine St - 0.1
+Broadway at Royden St - 0.1
+Broadway at Berkeley St - 0.1
+Broadway at Benson St - 0.1
+Broadway at Stevens St - 0.1
+Broadway In Front Of Wrtc - 0.1
+Market St at N 6th St - 0.2
+Market St at N. 4th St - 0.2
+3rd St at Market St - 0.1
+Federal St at Delaware Ave# - 0.3
