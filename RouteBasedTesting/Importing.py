@@ -1,3 +1,5 @@
+import matplotlib.pyplot as plt
+import numpy as np
 """
 
 Given a TXT file in said format
@@ -123,10 +125,17 @@ def smartRemoving(bus, chargerList, world, battery, inOrderList):
 world, buses = CreateWorld(["Manual450Route.txt","Manual453Route.txt"],"test")
 print(buses)
 print(world)
-print(smartChargers(buses,world,10.0))
-print(smartChargers(buses,world,5.0))
-print(smartChargers(buses,world,3.0))
-print(smartChargers(buses,world,2.0))
-print(smartChargers(buses,world,1.5))
-print(smartChargers(buses,world,1.2))
-print(smartChargers(buses,world,0.5))
+
+listToTry = [0.5,1.0,1.2,1.5,2.0,3.0,5.0,10.0]
+data = []
+
+for i in listToTry:
+    data.append(len(smartChargers(buses,world,i)))
+
+print(data)
+plt.plot(listToTry, data)  # Plot some data on the axes.
+plt.title("# of Chargers for Different Batteries")
+plt.xlabel("Battery Distance in Miles")
+plt.ylabel("Number of Chargers needed")
+plt.show()
+
