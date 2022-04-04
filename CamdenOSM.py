@@ -5,7 +5,7 @@ import geopy
 from datetime import timedelta
 
 '''
-graph_area = ("Camden County, New Jersey, USA")
+graph_area = ("Manhattan, New York, USA")
 
 # Create the graph of the area from OSM data. It will download the data and create the graph
 G = ox.graph_from_place(graph_area, network_type='drive')
@@ -15,7 +15,7 @@ G = ox.add_edge_speeds(G)
 G = ox.add_edge_travel_times(G)
 
 # Save graph to disk if you want to reuse it
-ox.save_graphml(G, "CityGraphs/CC.graphml")
+ox.save_graphml(G, "CityGraphs/Camden.graphml")
 '''
 # Load the graph
 G = ox.load_graphml("CityGraphs/Camden.graphml")
@@ -25,11 +25,10 @@ fig, ax = ox.plot_graph(G, figsize=(10, 10), node_size=0, edge_color='y', edge_l
 
 
 # Two pairs of (lat,lng) coordinates
-origin_coordinates = (39.94616, -75.12278)
-destination_coordinates = (39.94651, -75.12369)
+origin_coordinates = ox.geocode("Madison Av/E 101 St, New York, New York")
+destination_coordinates = (40.73036078549269, -73.99142278844137)
 
 # If you want to take an address (osmx will use Nominatim service for this)
-# origin_coordinates = ox.geocode("2 Broad St, New York, NY 10005")
 
 # In the graph, get the nodes closest to the points
 origin_node = ox.get_nearest_node(G, origin_coordinates)

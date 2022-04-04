@@ -64,7 +64,7 @@ def CreateWorld(listOfRoutes, worldName):
     for x in busRoutes.keys():
         routes.write(str(busRoutes.get(x))[1:len(str(busRoutes.get(x)))-1]+"\n")
 
-    return worldDict, busRoutes
+    return worldDict, busRoutes, stopDict
 
 def smartChargers(buses, world, battery):
 
@@ -122,9 +122,10 @@ def smartRemoving(bus, chargerList, world, battery, inOrderList):
         if energy < 0:
                 energy = 0
 
-world, buses = CreateWorld(["Manual450Route.txt","Manual453Route.txt"],"test")
+world, buses, sl = CreateWorld(["Manual450Route.txt","Manual453Route.txt"],"test")
 print(buses)
 print(world)
+print(sl)
 
 listToTry = [0.5,1.0,1.2,1.5,2.0,3.0,5.0,10.0]
 data = []
