@@ -1,0 +1,438 @@
+{
+    "stops": {
+        "0": {
+            "name": "4 Av/E 9 St, New York",
+            "lat": "40.730567",
+            "long": "-73.9904889"
+        },
+        "1": {
+            "name": "4 Av/E 9 St, New York",
+            "lat": "40.730567",
+            "long": "-73.9904889"
+        },
+        "2": {
+            "name": "4 Av/E 9 St, New York",
+            "lat": "40.730567",
+            "long": "-73.9904889"
+        },
+        "3": {
+            "name": "4 Av/E 9 St, New York",
+            "lat": "40.730567",
+            "long": "-73.9904889"
+        },
+        "4": {
+            "name": "4 Av/E 9 St, New York",
+            "lat": "40.730567",
+            "long": "-73.9904889"
+        },
+        "5": {
+            "name": "4 Av/E 9 St, New York",
+            "lat": "40.730567",
+            "long": "-73.9904889"
+        },
+        "6": {
+            "name": "4 Av/E 9 St, New York",
+            "lat": "40.730567",
+            "long": "-73.9904889"
+        },
+        "7": {
+            "name": "4 Av/E 9 St, New York",
+            "lat": "40.730567",
+            "long": "-73.9904889"
+        },
+        "8": {
+            "name": "4 Av/E 9 St, New York",
+            "lat": "40.730567",
+            "long": "-73.9904889"
+        },
+        "9": {
+            "name": "4 Av/E 9 St, New York",
+            "lat": "40.730567",
+            "long": "-73.9904889"
+        },
+        "10": {
+            "name": "4 Av/E 9 St, New York",
+            "lat": "40.730567",
+            "long": "-73.9904889"
+        },
+        "11": {
+            "name": "4 Av/E 9 St, New York",
+            "lat": "40.730567",
+            "long": "-73.9904889"
+        },
+        "12": {
+            "name": "4 Av/E 9 St, New York",
+            "lat": "40.730567",
+            "long": "-73.9904889"
+        },
+        "13": {
+            "name": "4 Av/E 9 St, New York",
+            "lat": "40.730567",
+            "long": "-73.9904889"
+        },
+        "14": {
+            "name": "4 Av/E 9 St, New York",
+            "lat": "40.730567",
+            "long": "-73.9904889"
+        },
+        "15": {
+            "name": "4 Av/E 9 St, New York",
+            "lat": "40.730567",
+            "long": "-73.9904889"
+        },
+        "16": {
+            "name": "4 Av/E 9 St, New York",
+            "lat": "40.730567",
+            "long": "-73.9904889"
+        },
+        "17": {
+            "name": "4 Av/E 9 St, New York",
+            "lat": "40.730567",
+            "long": "-73.9904889"
+        },
+        "18": {
+            "name": "4 Av/E 9 St, New York",
+            "lat": "40.730567",
+            "long": "-73.9904889"
+        },
+        "19": {
+            "name": "4 Av/E 9 St, New York",
+            "lat": "40.730567",
+            "long": "-73.9904889"
+        },
+        "20": {
+            "name": "4 Av/E 9 St, New York",
+            "lat": "40.730567",
+            "long": "-73.9904889"
+        },
+        "21": {
+            "name": "4 Av/E 9 St, New York",
+            "lat": "40.730567",
+            "long": "-73.9904889"
+        },
+        "22": {
+            "name": "4 Av/E 9 St, New York",
+            "lat": "40.730567",
+            "long": "-73.9904889"
+        },
+        "23": {
+            "name": "4 Av/E 9 St, New York",
+            "lat": "40.730567",
+            "long": "-73.9904889"
+        },
+        "24": {
+            "name": "4 Av/E 9 St, New York",
+            "lat": "40.730567",
+            "long": "-73.9904889"
+        },
+        "25": {
+            "name": "4 Av/E 9 St, New York",
+            "lat": "40.730567",
+            "long": "-73.9904889"
+        },
+        "26": {
+            "name": "4 Av/E 9 St, New York",
+            "lat": "40.730567",
+            "long": "-73.9904889"
+        },
+        "27": {
+            "name": "4 Av/E 9 St, New York",
+            "lat": "40.730567",
+            "long": "-73.9904889"
+        },
+        "28": {
+            "name": "4 Av/E 9 St, New York",
+            "lat": "40.730567",
+            "long": "-73.9904889"
+        },
+        "29": {
+            "name": "4 Av/E 9 St, New York",
+            "lat": "40.730567",
+            "long": "-73.9904889"
+        },
+        "30": {
+            "name": "4 Av/E 9 St, New York",
+            "lat": "40.730567",
+            "long": "-73.9904889"
+        },
+        "31": {
+            "name": "4 Av/E 9 St, New York",
+            "lat": "40.730567",
+            "long": "-73.9904889"
+        },
+        "32": {
+            "name": "4 Av/E 9 St, New York",
+            "lat": "40.730567",
+            "long": "-73.9904889"
+        },
+        "33": {
+            "name": "4 Av/E 9 St, New York",
+            "lat": "40.730567",
+            "long": "-73.9904889"
+        },
+        "34": {
+            "name": "4 Av/E 9 St, New York",
+            "lat": "40.730567",
+            "long": "-73.9904889"
+        },
+        "35": {
+            "name": "4 Av/E 9 St, New York",
+            "lat": "40.730567",
+            "long": "-73.9904889"
+        },
+        "36": {
+            "name": "4 Av/E 9 St, New York",
+            "lat": "40.730567",
+            "long": "-73.9904889"
+        },
+        "37": {
+            "name": "4 Av/E 9 St, New York",
+            "lat": "40.730567",
+            "long": "-73.9904889"
+        },
+        "38": {
+            "name": "4 Av/E 9 St, New York",
+            "lat": "40.730567",
+            "long": "-73.9904889"
+        },
+        "39": {
+            "name": "4 Av/E 9 St, New York",
+            "lat": "40.730567",
+            "long": "-73.9904889"
+        },
+        "40": {
+            "name": "4 Av/E 9 St, New York",
+            "lat": "40.730567",
+            "long": "-73.9904889"
+        },
+        "41": {
+            "name": "4 Av/E 9 St, New York",
+            "lat": "40.730567",
+            "long": "-73.9904889"
+        },
+        "42": {
+            "name": "4 Av/E 9 St, New York",
+            "lat": "40.730567",
+            "long": "-73.9904889"
+        },
+        "43": {
+            "name": "4 Av/E 9 St, New York",
+            "lat": "40.730567",
+            "long": "-73.9904889"
+        },
+        "44": {
+            "name": "4 Av/E 9 St, New York",
+            "lat": "40.730567",
+            "long": "-73.9904889"
+        },
+        "45": {
+            "name": "4 Av/E 9 St, New York",
+            "lat": "40.730567",
+            "long": "-73.9904889"
+        },
+        "46": {
+            "name": "4 Av/E 9 St, New York",
+            "lat": "40.730567",
+            "long": "-73.9904889"
+        },
+        "47": {
+            "name": "4 Av/E 9 St, New York",
+            "lat": "40.730567",
+            "long": "-73.9904889"
+        },
+        "48": {
+            "name": "4 Av/E 9 St, New York",
+            "lat": "40.730567",
+            "long": "-73.9904889"
+        },
+        "49": {
+            "name": "4 Av/E 9 St, New York",
+            "lat": "40.730567",
+            "long": "-73.9904889"
+        },
+        "50": {
+            "name": "4 Av/E 9 St, New York",
+            "lat": "40.730567",
+            "long": "-73.9904889"
+        },
+        "51": {
+            "name": "4 Av/E 9 St, New York",
+            "lat": "40.730567",
+            "long": "-73.9904889"
+        },
+        "52": {
+            "name": "4 Av/E 9 St, New York",
+            "lat": "40.730567",
+            "long": "-73.9904889"
+        },
+        "53": {
+            "name": "4 Av/E 9 St, New York",
+            "lat": "40.730567",
+            "long": "-73.9904889"
+        },
+        "54": {
+            "name": "4 Av/E 9 St, New York",
+            "lat": "40.730567",
+            "long": "-73.9904889"
+        },
+        "55": {
+            "name": "4 Av/E 9 St, New York",
+            "lat": "40.730567",
+            "long": "-73.9904889"
+        },
+        "56": {
+            "name": "4 Av/E 9 St, New York",
+            "lat": "40.730567",
+            "long": "-73.9904889"
+        },
+        "57": {
+            "name": "4 Av/E 9 St, New York",
+            "lat": "40.730567",
+            "long": "-73.9904889"
+        },
+        "58": {
+            "name": "4 Av/E 9 St, New York",
+            "lat": "40.730567",
+            "long": "-73.9904889"
+        },
+        "59": {
+            "name": "4 Av/E 9 St, New York",
+            "lat": "40.730567",
+            "long": "-73.9904889"
+        },
+        "60": {
+            "name": "4 Av/E 9 St, New York",
+            "lat": "40.730567",
+            "long": "-73.9904889"
+        }
+    },
+    "name_to_id": {
+        "W 146 St/Malcolm X Bl, New York": 0,
+        "Malcolm X Bl/W 145 St, New York": 1,
+        "Malcolm X Bl/W 142 St, New York": 2,
+        "W 139 St/Malcolm X Bl, New York": 3,
+        "5 Av/W 138 St, New York": 4,
+        "5 Av/W 137 St, New York": 5,
+        "5 Av/W 135 St, New York": 6,
+        "5 Av/W 132 St, New York": 7,
+        "5 Av/W 130 St, New York": 8,
+        "5 Av/W 128 St, New York": 9,
+        "5 Av/W 125 St, New York": 10,
+        "Mt Morris Pk W/W 124 St, New York": 11,
+        "Mt Morris Pk W/W 121 St, New York": 12,
+        "W 120 St/5 Av, New York": 13,
+        "5 Av/W 118 St, New York": 14,
+        "5 Av/W 116 St, New York": 15,
+        "5 Av/W 112 St, New York": 16,
+        "5 Av/East 109 St, New York": 17,
+        "5 Av/E 108 St, New York": 18,
+        "5 Av/E 106 St, New York": 19,
+        "5 Av/E 104 St, New York": 20,
+        "5 Av/E 102 St, New York": 21,
+        "5 Av/E 98 St, New York": 22,
+        "5 Av/E 96 St, New York": 23,
+        "5 Av/E 94 St, New York": 24,
+        "5 Av/E 92 St, New York": 25,
+        "5 Av/E 90 St, New York": 26,
+        "5 Av/E 87 St, New York": 27,
+        "5 Av/E 84 St, New York": 28,
+        "5 Av/East 81 St, New York": 29,
+        "5 Av/E 77 St, New York": 30,
+        "5 Av/E 75 St, New York": 31,
+        "5 Av/E 72 St, New York": 32,
+        "5 Av/W 69 St, New York": 33,
+        "5 Av/W 66 St, New York": 34,
+        "5 Av/E 63 St, New York": 35,
+        "5 Av/E 61 St, New York": 36,
+        "5 Av/W 59 St, New York": 37,
+        "5 Av/W 56, New York": 38,
+        "5 Av/W 52 St, New York": 39,
+        "5 Av/W 49 St, New York": 40,
+        "5 Av/W 46 St, New York": 41,
+        "5 Av/W 44 St, New York": 42,
+        "5 Av/W 41 St, New York": 43,
+        "5 Av/W 38 St, New York": 44,
+        "5 Av/W 35 St, New York": 45,
+        "5 Av/W 33 St, New York": 46,
+        "5 Av/W 31 St, New York": 47,
+        "5 Av/W 29 St, New York": 48,
+        "5 Av/W 26 St, New York": 49,
+        "5 Av/W 23 St, New York": 50,
+        "5 Av/W 20 St, New York": 51,
+        "5 Av/W 17 St, New York": 52,
+        "5 Av/W 13 St, New York": 53,
+        "5 Av/W 12 St, New York": 54,
+        "5 Av/W 10 St, New York": 55,
+        "E 8 St/5 Av, New York": 56,
+        "E 8 St/University Pl, New York": 57,
+        "E 8 St/Mercer St, New York": 58,
+        "E 8 St/Lafayette St, New York": 59,
+        "4 Av/E 9 St, New York": 60
+    },
+    "routes": {
+        "M1": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60
+        ]
+    },
+    "filename": "testWorld.json"
+}

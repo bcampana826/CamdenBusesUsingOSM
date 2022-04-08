@@ -18,7 +18,7 @@ G = ox.add_edge_travel_times(G)
 ox.save_graphml(G, "CityGraphs/Camden.graphml")
 '''
 # Load the graph
-G = ox.load_graphml("CityGraphs/Camden.graphml")
+G = ox.load_graphml("NewYork/NycGraphs/Camden.graphml")
 
 # Plot the graph
 fig, ax = ox.plot_graph(G, figsize=(10, 10), node_size=0, edge_color='y', edge_linewidth=0.2)

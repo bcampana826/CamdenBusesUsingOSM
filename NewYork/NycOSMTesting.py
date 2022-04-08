@@ -4,13 +4,20 @@ import geopandas as gp
 import geopy
 from datetime import timedelta
 
+
 def convertFileToRoute(filename):
     routeFile = open(filename, "r")
-    route = []
+    route = dict()
     lines = routeFile.readlines()
 
     for i in lines:
-        route.append(i.strip("\n") + ", New York")
+
+        route_str = i.split(">>")
+
+        route['']
+        route['name'] = route_str[0]
+        route['lat'] = float(route_str[1])
+        route['long'] = float(route_str[2])
 
     return route
 
@@ -22,8 +29,9 @@ def geocodeDistance(list, graphName):
     distances = []
     total = 0
 
-    first = None
-    second = None
+
+
+
 
     for l in list:
         if first is None:
@@ -52,6 +60,6 @@ def geocodeDistance(list, graphName):
 
 
 
-d, t = geocodeDistance(convertFileToRoute("BusRoutes/M1Route.txt"),"CityGraphs/Camden.graphml")
+d, t = geocodeDistance(convertFileToRoute("NewYork/NycRoutes/M1Route.txt"), "NewYork/NycGraphs/Camden.graphml")
 print(d)
 print(t)

@@ -122,7 +122,7 @@ def smartRemoving(bus, chargerList, world, battery, inOrderList):
         if energy < 0:
                 energy = 0
 
-world, buses, sl = CreateWorld(["Manual450Route.txt","Manual453Route.txt"],"test")
+world, buses, sl = CreateWorld(["Manual450Route.txt","Manual453Route.txt"],"M1RouteLatLong.txt")
 print(buses)
 print(world)
 print(sl)

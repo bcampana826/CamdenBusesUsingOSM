@@ -1,0 +1,1584 @@
+{
+    "stops": {
+        "0": {
+            "name": "4 Av/E 9 St, New York",
+            "lat": "40.730567",
+            "long": "-73.9904889"
+        },
+        "1": {
+            "name": "4 Av/E 9 St, New York",
+            "lat": "40.730567",
+            "long": "-73.9904889"
+        },
+        "2": {
+            "name": "4 Av/E 9 St, New York",
+            "lat": "40.730567",
+            "long": "-73.9904889"
+        },
+        "3": {
+            "name": "4 Av/E 9 St, New York",
+            "lat": "40.730567",
+            "long": "-73.9904889"
+        },
+        "4": {
+            "name": "4 Av/E 9 St, New York",
+            "lat": "40.730567",
+            "long": "-73.9904889"
+        },
+        "5": {
+            "name": "4 Av/E 9 St, New York",
+            "lat": "40.730567",
+            "long": "-73.9904889"
+        },
+        "6": {
+            "name": "4 Av/E 9 St, New York",
+            "lat": "40.730567",
+            "long": "-73.9904889"
+        },
+        "7": {
+            "name": "4 Av/E 9 St, New York",
+            "lat": "40.730567",
+            "long": "-73.9904889"
+        },
+        "8": {
+            "name": "4 Av/E 9 St, New York",
+            "lat": "40.730567",
+            "long": "-73.9904889"
+        },
+        "9": {
+            "name": "4 Av/E 9 St, New York",
+            "lat": "40.730567",
+            "long": "-73.9904889"
+        },
+        "10": {
+            "name": "4 Av/E 9 St, New York",
+            "lat": "40.730567",
+            "long": "-73.9904889"
+        },
+        "11": {
+            "name": "4 Av/E 9 St, New York",
+            "lat": "40.730567",
+            "long": "-73.9904889"
+        },
+        "12": {
+            "name": "4 Av/E 9 St, New York",
+            "lat": "40.730567",
+            "long": "-73.9904889"
+        },
+        "13": {
+            "name": "4 Av/E 9 St, New York",
+            "lat": "40.730567",
+            "long": "-73.9904889"
+        },
+        "14": {
+            "name": "4 Av/E 9 St, New York",
+            "lat": "40.730567",
+            "long": "-73.9904889"
+        },
+        "15": {
+            "name": "4 Av/E 9 St, New York",
+            "lat": "40.730567",
+            "long": "-73.9904889"
+        },
+        "16": {
+            "name": "4 Av/E 9 St, New York",
+            "lat": "40.730567",
+            "long": "-73.9904889"
+        },
+        "17": {
+            "name": "4 Av/E 9 St, New York",
+            "lat": "40.730567",
+            "long": "-73.9904889"
+        },
+        "18": {
+            "name": "4 Av/E 9 St, New York",
+            "lat": "40.730567",
+            "long": "-73.9904889"
+        },
+        "19": {
+            "name": "4 Av/E 9 St, New York",
+            "lat": "40.730567",
+            "long": "-73.9904889"
+        },
+        "20": {
+            "name": "4 Av/E 9 St, New York",
+            "lat": "40.730567",
+            "long": "-73.9904889"
+        },
+        "21": {
+            "name": "4 Av/E 9 St, New York",
+            "lat": "40.730567",
+            "long": "-73.9904889"
+        },
+        "22": {
+            "name": "4 Av/E 9 St, New York",
+            "lat": "40.730567",
+            "long": "-73.9904889"
+        },
+        "23": {
+            "name": "4 Av/E 9 St, New York",
+            "lat": "40.730567",
+            "long": "-73.9904889"
+        },
+        "24": {
+            "name": "4 Av/E 9 St, New York",
+            "lat": "40.730567",
+            "long": "-73.9904889"
+        },
+        "25": {
+            "name": "4 Av/E 9 St, New York",
+            "lat": "40.730567",
+            "long": "-73.9904889"
+        },
+        "26": {
+            "name": "4 Av/E 9 St, New York",
+            "lat": "40.730567",
+            "long": "-73.9904889"
+        },
+        "27": {
+            "name": "4 Av/E 9 St, New York",
+            "lat": "40.730567",
+            "long": "-73.9904889"
+        },
+        "28": {
+            "name": "4 Av/E 9 St, New York",
+            "lat": "40.730567",
+            "long": "-73.9904889"
+        },
+        "29": {
+            "name": "4 Av/E 9 St, New York",
+            "lat": "40.730567",
+            "long": "-73.9904889"
+        },
+        "30": {
+            "name": "4 Av/E 9 St, New York",
+            "lat": "40.730567",
+            "long": "-73.9904889"
+        },
+        "31": {
+            "name": "4 Av/E 9 St, New York",
+            "lat": "40.730567",
+            "long": "-73.9904889"
+        },
+        "32": {
+            "name": "4 Av/E 9 St, New York",
+            "lat": "40.730567",
+            "long": "-73.9904889"
+        },
+        "33": {
+            "name": "4 Av/E 9 St, New York",
+            "lat": "40.730567",
+            "long": "-73.9904889"
+        },
+        "34": {
+            "name": "4 Av/E 9 St, New York",
+            "lat": "40.730567",
+            "long": "-73.9904889"
+        },
+        "35": {
+            "name": "4 Av/E 9 St, New York",
+            "lat": "40.730567",
+            "long": "-73.9904889"
+        },
+        "36": {
+            "name": "4 Av/E 9 St, New York",
+            "lat": "40.730567",
+            "long": "-73.9904889"
+        },
+        "37": {
+            "name": "4 Av/E 9 St, New York",
+            "lat": "40.730567",
+            "long": "-73.9904889"
+        },
+        "38": {
+            "name": "4 Av/E 9 St, New York",
+            "lat": "40.730567",
+            "long": "-73.9904889"
+        },
+        "39": {
+            "name": "4 Av/E 9 St, New York",
+            "lat": "40.730567",
+            "long": "-73.9904889"
+        },
+        "40": {
+            "name": "4 Av/E 9 St, New York",
+            "lat": "40.730567",
+            "long": "-73.9904889"
+        },
+        "41": {
+            "name": "4 Av/E 9 St, New York",
+            "lat": "40.730567",
+            "long": "-73.9904889"
+        },
+        "42": {
+            "name": "4 Av/E 9 St, New York",
+            "lat": "40.730567",
+            "long": "-73.9904889"
+        },
+        "43": {
+            "name": "4 Av/E 9 St, New York",
+            "lat": "40.730567",
+            "long": "-73.9904889"
+        },
+        "44": {
+            "name": "4 Av/E 9 St, New York",
+            "lat": "40.730567",
+            "long": "-73.9904889"
+        },
+        "45": {
+            "name": "4 Av/E 9 St, New York",
+            "lat": "40.730567",
+            "long": "-73.9904889"
+        },
+        "46": {
+            "name": "4 Av/E 9 St, New York",
+            "lat": "40.730567",
+            "long": "-73.9904889"
+        },
+        "47": {
+            "name": "4 Av/E 9 St, New York",
+            "lat": "40.730567",
+            "long": "-73.9904889"
+        },
+        "48": {
+            "name": "4 Av/E 9 St, New York",
+            "lat": "40.730567",
+            "long": "-73.9904889"
+        },
+        "49": {
+            "name": "4 Av/E 9 St, New York",
+            "lat": "40.730567",
+            "long": "-73.9904889"
+        },
+        "50": {
+            "name": "4 Av/E 9 St, New York",
+            "lat": "40.730567",
+            "long": "-73.9904889"
+        },
+        "51": {
+            "name": "4 Av/E 9 St, New York",
+            "lat": "40.730567",
+            "long": "-73.9904889"
+        },
+        "52": {
+            "name": "4 Av/E 9 St, New York",
+            "lat": "40.730567",
+            "long": "-73.9904889"
+        },
+        "53": {
+            "name": "4 Av/E 9 St, New York",
+            "lat": "40.730567",
+            "long": "-73.9904889"
+        },
+        "54": {
+            "name": "4 Av/E 9 St, New York",
+            "lat": "40.730567",
+            "long": "-73.9904889"
+        },
+        "55": {
+            "name": "4 Av/E 9 St, New York",
+            "lat": "40.730567",
+            "long": "-73.9904889"
+        },
+        "56": {
+            "name": "4 Av/E 9 St, New York",
+            "lat": "40.730567",
+            "long": "-73.9904889"
+        },
+        "57": {
+            "name": "4 Av/E 9 St, New York",
+            "lat": "40.730567",
+            "long": "-73.9904889"
+        },
+        "58": {
+            "name": "4 Av/E 9 St, New York",
+            "lat": "40.730567",
+            "long": "-73.9904889"
+        },
+        "59": {
+            "name": "4 Av/E 9 St, New York",
+            "lat": "40.730567",
+            "long": "-73.9904889"
+        },
+        "60": {
+            "name": "4 Av/E 9 St, New York",
+            "lat": "40.730567",
+            "long": "-73.9904889"
+        },
+        "61": {
+            "name": "4 AV/E 9 ST, New York",
+            "lat": "40.730567",
+            "long": "-73.9904889"
+        },
+        "62": {
+            "name": "E 8 ST/LAFAYETTE ST, New York",
+            "lat": "40.7300573",
+            "long": "-73.9911175"
+        },
+        "63": {
+            "name": "E 8 ST/LAFAYETTE ST, New York",
+            "lat": "40.7300573",
+            "long": "-73.9911175"
+        },
+        "64": {
+            "name": "4 AV/E 9 ST, New York",
+            "lat": "40.730567",
+            "long": "-73.9904889"
+        },
+        "65": {
+            "name": "4 AV/E 9 ST, New York",
+            "lat": "40.730567",
+            "long": "-73.9904889"
+        },
+        "66": {
+            "name": "4 AV/E 9 ST, New York",
+            "lat": "40.730567",
+            "long": "-73.9904889"
+        },
+        "67": {
+            "name": "4 AV/E 9 ST, New York",
+            "lat": "40.730567",
+            "long": "-73.9904889"
+        },
+        "68": {
+            "name": "4 AV/E 9 ST, New York",
+            "lat": "40.730567",
+            "long": "-73.9904889"
+        },
+        "69": {
+            "name": "4 AV/E 9 ST, New York",
+            "lat": "40.730567",
+            "long": "-73.9904889"
+        },
+        "70": {
+            "name": "4 AV/E 9 ST, New York",
+            "lat": "40.730567",
+            "long": "-73.9904889"
+        },
+        "71": {
+            "name": "4 AV/E 9 ST, New York",
+            "lat": "40.730567",
+            "long": "-73.9904889"
+        },
+        "72": {
+            "name": "4 AV/E 9 ST, New York",
+            "lat": "40.730567",
+            "long": "-73.9904889"
+        },
+        "73": {
+            "name": "4 AV/E 9 ST, New York",
+            "lat": "40.730567",
+            "long": "-73.9904889"
+        },
+        "74": {
+            "name": "4 AV/E 9 ST, New York",
+            "lat": "40.730567",
+            "long": "-73.9904889"
+        },
+        "75": {
+            "name": "4 AV/E 9 ST, New York",
+            "lat": "40.730567",
+            "long": "-73.9904889"
+        },
+        "76": {
+            "name": "4 AV/E 9 ST, New York",
+            "lat": "40.730567",
+            "long": "-73.9904889"
+        },
+        "77": {
+            "name": "4 AV/E 9 ST, New York",
+            "lat": "40.730567",
+            "long": "-73.9904889"
+        },
+        "78": {
+            "name": "4 AV/E 9 ST, New York",
+            "lat": "40.730567",
+            "long": "-73.9904889"
+        },
+        "79": {
+            "name": "4 AV/E 9 ST, New York",
+            "lat": "40.730567",
+            "long": "-73.9904889"
+        },
+        "80": {
+            "name": "4 AV/E 9 ST, New York",
+            "lat": "40.730567",
+            "long": "-73.9904889"
+        },
+        "81": {
+            "name": "4 AV/E 9 ST, New York",
+            "lat": "40.730567",
+            "long": "-73.9904889"
+        },
+        "82": {
+            "name": "4 AV/E 9 ST, New York",
+            "lat": "40.730567",
+            "long": "-73.9904889"
+        },
+        "83": {
+            "name": "4 AV/E 9 ST, New York",
+            "lat": "40.730567",
+            "long": "-73.9904889"
+        },
+        "84": {
+            "name": "4 AV/E 9 ST, New York",
+            "lat": "40.730567",
+            "long": "-73.9904889"
+        },
+        "85": {
+            "name": "4 AV/E 9 ST, New York",
+            "lat": "40.730567",
+            "long": "-73.9904889"
+        },
+        "86": {
+            "name": "4 AV/E 9 ST, New York",
+            "lat": "40.730567",
+            "long": "-73.9904889"
+        },
+        "87": {
+            "name": "4 AV/E 9 ST, New York",
+            "lat": "40.730567",
+            "long": "-73.9904889"
+        },
+        "88": {
+            "name": "4 AV/E 9 ST, New York",
+            "lat": "40.730567",
+            "long": "-73.9904889"
+        },
+        "89": {
+            "name": "E 32 ST/5 AV, New York",
+            "lat": "40.7471648",
+            "long": "-73.985504"
+        },
+        "90": {
+            "name": "E 32 ST/5 AV, New York",
+            "lat": "40.7471648",
+            "long": "-73.985504"
+        },
+        "91": {
+            "name": "4 AV/E 9 ST, New York",
+            "lat": "40.730567",
+            "long": "-73.9904889"
+        },
+        "92": {
+            "name": "E 32 ST/5 AV, New York",
+            "lat": "40.7471648",
+            "long": "-73.985504"
+        },
+        "93": {
+            "name": "E 32 ST/5 AV, New York",
+            "lat": "40.7471648",
+            "long": "-73.985504"
+        },
+        "94": {
+            "name": "E 32 ST/5 AV, New York",
+            "lat": "40.7471648",
+            "long": "-73.985504"
+        },
+        "95": {
+            "name": "E 32 ST/5 AV, New York",
+            "lat": "40.7471648",
+            "long": "-73.985504"
+        },
+        "96": {
+            "name": "E 32 ST/5 AV, New York",
+            "lat": "40.7471648",
+            "long": "-73.985504"
+        },
+        "97": {
+            "name": "E 32 ST/5 AV, New York",
+            "lat": "40.7471648",
+            "long": "-73.985504"
+        },
+        "98": {
+            "name": "E 32 ST/5 AV, New York",
+            "lat": "40.7471648",
+            "long": "-73.985504"
+        },
+        "99": {
+            "name": "E 32 ST/5 AV, New York",
+            "lat": "40.7471648",
+            "long": "-73.985504"
+        },
+        "100": {
+            "name": "E 32 ST/5 AV, New York",
+            "lat": "40.7471648",
+            "long": "-73.985504"
+        },
+        "101": {
+            "name": "E 32 ST/5 AV, New York",
+            "lat": "40.7471648",
+            "long": "-73.985504"
+        },
+        "102": {
+            "name": "E 32 ST/5 AV, New York",
+            "lat": "40.7471648",
+            "long": "-73.985504"
+        },
+        "103": {
+            "name": "E 32 ST/5 AV, New York",
+            "lat": "40.7471648",
+            "long": "-73.985504"
+        },
+        "104": {
+            "name": "4 AV/E 9 ST, New York",
+            "lat": "40.730567",
+            "long": "-73.9904889"
+        },
+        "105": {
+            "name": "E 32 ST/5 AV, New York",
+            "lat": "40.7471648",
+            "long": "-73.985504"
+        },
+        "106": {
+            "name": "E 32 ST/5 AV, New York",
+            "lat": "40.7471648",
+            "long": "-73.985504"
+        },
+        "107": {
+            "name": "E 32 ST/5 AV, New York",
+            "lat": "40.7471648",
+            "long": "-73.985504"
+        },
+        "108": {
+            "name": "E 32 ST/5 AV, New York",
+            "lat": "40.7471648",
+            "long": "-73.985504"
+        },
+        "109": {
+            "name": "E 32 ST/5 AV, New York",
+            "lat": "40.7471648",
+            "long": "-73.985504"
+        },
+        "110": {
+            "name": "E 32 ST/5 AV, New York",
+            "lat": "40.7471648",
+            "long": "-73.985504"
+        },
+        "111": {
+            "name": "E 32 ST/5 AV, New York",
+            "lat": "40.7471648",
+            "long": "-73.985504"
+        },
+        "112": {
+            "name": "E 32 ST/5 AV, New York",
+            "lat": "40.7471648",
+            "long": "-73.985504"
+        },
+        "113": {
+            "name": "E 32 ST/5 AV, New York",
+            "lat": "40.7471648",
+            "long": "-73.985504"
+        },
+        "114": {
+            "name": "E 32 ST/5 AV, New York",
+            "lat": "40.7471648",
+            "long": "-73.985504"
+        },
+        "115": {
+            "name": "E 8 ST/LAFAYETTE ST, New York",
+            "lat": "40.7300573",
+            "long": "-73.9911175"
+        },
+        "116": {
+            "name": "E 32 ST/5 AV, New York",
+            "lat": "40.7471648",
+            "long": "-73.985504"
+        },
+        "117": {
+            "name": "E 32 ST/5 AV, New York",
+            "lat": "40.7471648",
+            "long": "-73.985504"
+        },
+        "118": {
+            "name": "E 32 ST/5 AV, New York",
+            "lat": "40.7471648",
+            "long": "-73.985504"
+        },
+        "119": {
+            "name": "E 32 ST/5 AV, New York",
+            "lat": "40.7471648",
+            "long": "-73.985504"
+        },
+        "120": {
+            "name": "E 8 ST/LAFAYETTE ST, New York",
+            "lat": "40.7300573",
+            "long": "-73.9911175"
+        },
+        "121": {
+            "name": "E 8 ST/LAFAYETTE ST, New York",
+            "lat": "40.7300573",
+            "long": "-73.9911175"
+        },
+        "122": {
+            "name": "E 8 ST/LAFAYETTE ST, New York",
+            "lat": "40.7300573",
+            "long": "-73.9911175"
+        },
+        "123": {
+            "name": "E 8 ST/LAFAYETTE ST, New York",
+            "lat": "40.7300573",
+            "long": "-73.9911175"
+        },
+        "124": {
+            "name": "E 8 ST/LAFAYETTE ST, New York",
+            "lat": "40.7300573",
+            "long": "-73.9911175"
+        },
+        "125": {
+            "name": "E 8 ST/LAFAYETTE ST, New York",
+            "lat": "40.7300573",
+            "long": "-73.9911175"
+        },
+        "126": {
+            "name": "E 8 ST/LAFAYETTE ST, New York",
+            "lat": "40.7300573",
+            "long": "-73.9911175"
+        },
+        "127": {
+            "name": "E 8 ST/LAFAYETTE ST, New York",
+            "lat": "40.7300573",
+            "long": "-73.9911175"
+        },
+        "128": {
+            "name": "E 8 ST/LAFAYETTE ST, New York",
+            "lat": "40.7300573",
+            "long": "-73.9911175"
+        },
+        "129": {
+            "name": "E 8 ST/LAFAYETTE ST, New York",
+            "lat": "40.7300573",
+            "long": "-73.9911175"
+        },
+        "130": {
+            "name": "E 8 ST/LAFAYETTE ST, New York",
+            "lat": "40.7300573",
+            "long": "-73.9911175"
+        },
+        "131": {
+            "name": "E 8 ST/LAFAYETTE ST, New York",
+            "lat": "40.7300573",
+            "long": "-73.9911175"
+        },
+        "132": {
+            "name": "4 AV/E 9 ST, New York",
+            "lat": "40.730567",
+            "long": "-73.9904889"
+        },
+        "133": {
+            "name": "E 8 ST/LAFAYETTE ST, New York",
+            "lat": "40.7300573",
+            "long": "-73.9911175"
+        },
+        "134": {
+            "name": "E 8 ST/LAFAYETTE ST, New York",
+            "lat": "40.7300573",
+            "long": "-73.9911175"
+        },
+        "135": {
+            "name": "4 AV/E 9 ST, New York",
+            "lat": "40.730567",
+            "long": "-73.9904889"
+        },
+        "136": {
+            "name": "E 8 ST/LAFAYETTE ST, New York",
+            "lat": "40.7300573",
+            "long": "-73.9911175"
+        },
+        "137": {
+            "name": "E 8 ST/LAFAYETTE ST, New York",
+            "lat": "40.7300573",
+            "long": "-73.9911175"
+        },
+        "138": {
+            "name": "E 8 ST/LAFAYETTE ST, New York",
+            "lat": "40.7300573",
+            "long": "-73.9911175"
+        },
+        "139": {
+            "name": "E 8 ST/LAFAYETTE ST, New York",
+            "lat": "40.7300573",
+            "long": "-73.9911175"
+        },
+        "140": {
+            "name": "E 8 ST/LAFAYETTE ST, New York",
+            "lat": "40.7300573",
+            "long": "-73.9911175"
+        },
+        "141": {
+            "name": "E 8 ST/LAFAYETTE ST, New York",
+            "lat": "40.7300573",
+            "long": "-73.9911175"
+        },
+        "142": {
+            "name": "E 8 ST/LAFAYETTE ST, New York",
+            "lat": "40.7300573",
+            "long": "-73.9911175"
+        },
+        "143": {
+            "name": "E 8 ST/LAFAYETTE ST, New York",
+            "lat": "40.7300573",
+            "long": "-73.9911175"
+        },
+        "144": {
+            "name": "E 8 ST/LAFAYETTE ST, New York",
+            "lat": "40.7300573",
+            "long": "-73.9911175"
+        },
+        "145": {
+            "name": "E 8 ST/LAFAYETTE ST, New York",
+            "lat": "40.7300573",
+            "long": "-73.9911175"
+        },
+        "146": {
+            "name": "E 8 ST/LAFAYETTE ST, New York",
+            "lat": "40.7300573",
+            "long": "-73.9911175"
+        },
+        "147": {
+            "name": "E 8 ST/LAFAYETTE ST, New York",
+            "lat": "40.7300573",
+            "long": "-73.9911175"
+        },
+        "148": {
+            "name": "E 8 ST/LAFAYETTE ST, New York",
+            "lat": "40.7300573",
+            "long": "-73.9911175"
+        },
+        "149": {
+            "name": "E 8 ST/LAFAYETTE ST, New York",
+            "lat": "40.7300573",
+            "long": "-73.9911175"
+        },
+        "150": {
+            "name": "E 8 ST/LAFAYETTE ST, New York",
+            "lat": "40.7300573",
+            "long": "-73.9911175"
+        },
+        "151": {
+            "name": "E 8 ST/LAFAYETTE ST, New York",
+            "lat": "40.7300573",
+            "long": "-73.9911175"
+        },
+        "152": {
+            "name": "E 8 ST/LAFAYETTE ST, New York",
+            "lat": "40.7300573",
+            "long": "-73.9911175"
+        },
+        "153": {
+            "name": "E 8 ST/LAFAYETTE ST, New York",
+            "lat": "40.7300573",
+            "long": "-73.9911175"
+        },
+        "154": {
+            "name": "E 8 ST/LAFAYETTE ST, New York",
+            "lat": "40.7300573",
+            "long": "-73.9911175"
+        },
+        "155": {
+            "name": "E 8 ST/LAFAYETTE ST, New York",
+            "lat": "40.7300573",
+            "long": "-73.9911175"
+        },
+        "156": {
+            "name": "E 8 ST/LAFAYETTE ST, New York",
+            "lat": "40.7300573",
+            "long": "-73.9911175"
+        },
+        "157": {
+            "name": "E 8 ST/LAFAYETTE ST, New York",
+            "lat": "40.7300573",
+            "long": "-73.9911175"
+        },
+        "158": {
+            "name": "E 8 ST/LAFAYETTE ST, New York",
+            "lat": "40.7300573",
+            "long": "-73.9911175"
+        },
+        "159": {
+            "name": "E 8 ST/LAFAYETTE ST, New York",
+            "lat": "40.7300573",
+            "long": "-73.9911175"
+        },
+        "160": {
+            "name": "E 8 ST/LAFAYETTE ST, New York",
+            "lat": "40.7300573",
+            "long": "-73.9911175"
+        },
+        "161": {
+            "name": "E 8 ST/LAFAYETTE ST, New York",
+            "lat": "40.7300573",
+            "long": "-73.9911175"
+        },
+        "162": {
+            "name": "E 8 ST/LAFAYETTE ST, New York",
+            "lat": "40.7300573",
+            "long": "-73.9911175"
+        },
+        "163": {
+            "name": "E 8 ST/LAFAYETTE ST, New York",
+            "lat": "40.7300573",
+            "long": "-73.9911175"
+        },
+        "164": {
+            "name": "E 8 ST/LAFAYETTE ST, New York",
+            "lat": "40.7300573",
+            "long": "-73.9911175"
+        },
+        "165": {
+            "name": "E 8 ST/LAFAYETTE ST, New York",
+            "lat": "40.7300573",
+            "long": "-73.9911175"
+        },
+        "166": {
+            "name": "E 8 ST/LAFAYETTE ST, New York",
+            "lat": "40.7300573",
+            "long": "-73.9911175"
+        },
+        "167": {
+            "name": "E 8 ST/LAFAYETTE ST, New York",
+            "lat": "40.7300573",
+            "long": "-73.9911175"
+        },
+        "168": {
+            "name": "E 32 ST/5 AV, New York",
+            "lat": "40.7471648",
+            "long": "-73.985504"
+        },
+        "169": {
+            "name": "E 32 ST/5 AV, New York",
+            "lat": "40.7471648",
+            "long": "-73.985504"
+        },
+        "170": {
+            "name": "E 32 ST/5 AV, New York",
+            "lat": "40.7471648",
+            "long": "-73.985504"
+        },
+        "171": {
+            "name": "E 32 ST/5 AV, New York",
+            "lat": "40.7471648",
+            "long": "-73.985504"
+        },
+        "172": {
+            "name": "E 32 ST/5 AV, New York",
+            "lat": "40.7471648",
+            "long": "-73.985504"
+        },
+        "173": {
+            "name": "E 32 ST/5 AV, New York",
+            "lat": "40.7471648",
+            "long": "-73.985504"
+        },
+        "174": {
+            "name": "E 32 ST/5 AV, New York",
+            "lat": "40.7471648",
+            "long": "-73.985504"
+        },
+        "175": {
+            "name": "E 32 ST/5 AV, New York",
+            "lat": "40.7471648",
+            "long": "-73.985504"
+        },
+        "176": {
+            "name": "E 32 ST/5 AV, New York",
+            "lat": "40.7471648",
+            "long": "-73.985504"
+        },
+        "177": {
+            "name": "E 32 ST/5 AV, New York",
+            "lat": "40.7471648",
+            "long": "-73.985504"
+        },
+        "178": {
+            "name": "E 32 ST/5 AV, New York",
+            "lat": "40.7471648",
+            "long": "-73.985504"
+        },
+        "179": {
+            "name": "E 32 ST/5 AV, New York",
+            "lat": "40.7471648",
+            "long": "-73.985504"
+        },
+        "180": {
+            "name": "E 32 ST/5 AV, New York",
+            "lat": "40.7471648",
+            "long": "-73.985504"
+        },
+        "181": {
+            "name": "E 32 ST/5 AV, New York",
+            "lat": "40.7471648",
+            "long": "-73.985504"
+        },
+        "182": {
+            "name": "E 32 ST/5 AV, New York",
+            "lat": "40.7471648",
+            "long": "-73.985504"
+        },
+        "183": {
+            "name": "E 32 ST/5 AV, New York",
+            "lat": "40.7471648",
+            "long": "-73.985504"
+        },
+        "184": {
+            "name": "E 32 ST/5 AV, New York",
+            "lat": "40.7471648",
+            "long": "-73.985504"
+        },
+        "185": {
+            "name": "E 32 ST/5 AV, New York",
+            "lat": "40.7471648",
+            "long": "-73.985504"
+        },
+        "186": {
+            "name": "E 32 ST/5 AV, New York",
+            "lat": "40.7471648",
+            "long": "-73.985504"
+        },
+        "187": {
+            "name": "E 32 ST/5 AV, New York",
+            "lat": "40.7471648",
+            "long": "-73.985504"
+        },
+        "188": {
+            "name": "E 32 ST/5 AV, New York",
+            "lat": "40.7471648",
+            "long": "-73.985504"
+        },
+        "189": {
+            "name": "E 32 ST/5 AV, New York",
+            "lat": "40.7471648",
+            "long": "-73.985504"
+        },
+        "190": {
+            "name": "E 32 ST/5 AV, New York",
+            "lat": "40.7471648",
+            "long": "-73.985504"
+        },
+        "191": {
+            "name": "E 32 ST/5 AV, New York",
+            "lat": "40.7471648",
+            "long": "-73.985504"
+        },
+        "192": {
+            "name": "E 32 ST/5 AV, New York",
+            "lat": "40.7471648",
+            "long": "-73.985504"
+        },
+        "193": {
+            "name": "E 32 ST/5 AV, New York",
+            "lat": "40.7471648",
+            "long": "-73.985504"
+        },
+        "194": {
+            "name": "E 32 ST/5 AV, New York",
+            "lat": "40.7471648",
+            "long": "-73.985504"
+        },
+        "195": {
+            "name": "E 32 ST/5 AV, New York",
+            "lat": "40.7471648",
+            "long": "-73.985504"
+        },
+        "196": {
+            "name": "E 32 ST/5 AV, New York",
+            "lat": "40.7471648",
+            "long": "-73.985504"
+        },
+        "197": {
+            "name": "E 32 ST/5 AV, New York",
+            "lat": "40.7471648",
+            "long": "-73.985504"
+        },
+        "198": {
+            "name": "E 32 ST/5 AV, New York",
+            "lat": "40.7471648",
+            "long": "-73.985504"
+        },
+        "199": {
+            "name": "E 32 ST/5 AV, New York",
+            "lat": "40.7471648",
+            "long": "-73.985504"
+        },
+        "200": {
+            "name": "E 32 ST/5 AV, New York",
+            "lat": "40.7471648",
+            "long": "-73.985504"
+        },
+        "201": {
+            "name": "E 32 ST/5 AV, New York",
+            "lat": "40.7471648",
+            "long": "-73.985504"
+        },
+        "202": {
+            "name": "E 32 ST/5 AV, New York",
+            "lat": "40.7471648",
+            "long": "-73.985504"
+        },
+        "203": {
+            "name": "E 32 ST/5 AV, New York",
+            "lat": "40.7471648",
+            "long": "-73.985504"
+        },
+        "204": {
+            "name": "E 32 ST/5 AV, New York",
+            "lat": "40.7471648",
+            "long": "-73.985504"
+        },
+        "205": {
+            "name": "E 32 ST/5 AV, New York",
+            "lat": "40.7471648",
+            "long": "-73.985504"
+        },
+        "206": {
+            "name": "E 32 ST/5 AV, New York",
+            "lat": "40.7471648",
+            "long": "-73.985504"
+        },
+        "207": {
+            "name": "E 32 ST/5 AV, New York",
+            "lat": "40.7471648",
+            "long": "-73.985504"
+        },
+        "208": {
+            "name": "E 32 ST/5 AV, New York",
+            "lat": "40.7471648",
+            "long": "-73.985504"
+        },
+        "209": {
+            "name": "E 32 ST/5 AV, New York",
+            "lat": "40.7471648",
+            "long": "-73.985504"
+        },
+        "210": {
+            "name": "E 32 ST/5 AV, New York",
+            "lat": "40.7471648",
+            "long": "-73.985504"
+        },
+        "211": {
+            "name": "E 32 ST/5 AV, New York",
+            "lat": "40.7471648",
+            "long": "-73.985504"
+        },
+        "212": {
+            "name": "E 32 ST/5 AV, New York",
+            "lat": "40.7471648",
+            "long": "-73.985504"
+        }
+    },
+    "name_to_id": {
+        "W 146 St/Malcolm X Bl, New York": 0,
+        "Malcolm X Bl/W 145 St, New York": 1,
+        "Malcolm X Bl/W 142 St, New York": 2,
+        "W 139 St/Malcolm X Bl, New York": 3,
+        "5 Av/W 138 St, New York": 4,
+        "5 Av/W 137 St, New York": 5,
+        "5 Av/W 135 St, New York": 6,
+        "5 Av/W 132 St, New York": 7,
+        "5 Av/W 130 St, New York": 8,
+        "5 Av/W 128 St, New York": 9,
+        "5 Av/W 125 St, New York": 10,
+        "Mt Morris Pk W/W 124 St, New York": 11,
+        "Mt Morris Pk W/W 121 St, New York": 12,
+        "W 120 St/5 Av, New York": 13,
+        "5 Av/W 118 St, New York": 14,
+        "5 Av/W 116 St, New York": 15,
+        "5 Av/W 112 St, New York": 16,
+        "5 Av/East 109 St, New York": 17,
+        "5 Av/E 108 St, New York": 18,
+        "5 Av/E 106 St, New York": 19,
+        "5 Av/E 104 St, New York": 20,
+        "5 Av/E 102 St, New York": 21,
+        "5 Av/E 98 St, New York": 22,
+        "5 Av/E 96 St, New York": 23,
+        "5 Av/E 94 St, New York": 24,
+        "5 Av/E 92 St, New York": 25,
+        "5 Av/E 90 St, New York": 26,
+        "5 Av/E 87 St, New York": 27,
+        "5 Av/E 84 St, New York": 28,
+        "5 Av/East 81 St, New York": 29,
+        "5 Av/E 77 St, New York": 30,
+        "5 Av/E 75 St, New York": 31,
+        "5 Av/E 72 St, New York": 32,
+        "5 Av/W 69 St, New York": 33,
+        "5 Av/W 66 St, New York": 34,
+        "5 Av/E 63 St, New York": 35,
+        "5 Av/E 61 St, New York": 36,
+        "5 Av/W 59 St, New York": 37,
+        "5 Av/W 56, New York": 38,
+        "5 Av/W 52 St, New York": 39,
+        "5 Av/W 49 St, New York": 40,
+        "5 Av/W 46 St, New York": 41,
+        "5 Av/W 44 St, New York": 42,
+        "5 Av/W 41 St, New York": 43,
+        "5 Av/W 38 St, New York": 44,
+        "5 Av/W 35 St, New York": 45,
+        "5 Av/W 33 St, New York": 46,
+        "5 Av/W 31 St, New York": 47,
+        "5 Av/W 29 St, New York": 48,
+        "5 Av/W 26 St, New York": 49,
+        "5 Av/W 23 St, New York": 50,
+        "5 Av/W 20 St, New York": 51,
+        "5 Av/W 17 St, New York": 52,
+        "5 Av/W 13 St, New York": 53,
+        "5 Av/W 12 St, New York": 54,
+        "5 Av/W 10 St, New York": 55,
+        "E 8 St/5 Av, New York": 56,
+        "E 8 St/University Pl, New York": 57,
+        "E 8 St/Mercer St, New York": 58,
+        "E 8 St/Lafayette St, New York": 59,
+        "4 Av/E 9 St, New York": 60,
+        "168 ST/AUDUBON AV, New York": 61,
+        "BROADWAY/W 168 ST, New York": 62,
+        "W 166 ST/ST NICHOLAS AV, New York": 63,
+        "W 165 ST/AMSTERDAM AV, New York": 64,
+        "EDGECOMBE AV/W 164 ST, New York": 65,
+        "EDGECOMBE AV/W 162 ST, New York": 66,
+        "EDGECOMBE AV/W 160 ST, New York": 67,
+        "EDGECOMBE AV/W 158 ST, New York": 68,
+        "EDGECOMBE AV/W 155 ST, New York": 69,
+        "W 155 ST/EDGECOMBE AV, New York": 70,
+        "ADAM C POWELL BL/W 154 ST, New York": 71,
+        "ADAM C POWELL BL/W 151 ST, New York": 72,
+        "ADAM C POWELL BL/W 149 ST, New York": 73,
+        "ADAM C POWELL BL/W 148 ST, New York": 74,
+        "ADAM C POWELL BL/W 145 ST, New York": 75,
+        "ADAM C POWELL BL/W 142 ST, New York": 76,
+        "ADAM C POWELL BL/W 140 ST, New York": 77,
+        "ADAM C POWELL BL/W 138 ST, New York": 78,
+        "ADAM C POWELL BL/W 135 ST, New York": 79,
+        "ADAM C POWELL BL/W 132 ST, New York": 80,
+        "ADAM C POWELL BL/W 130 ST, New York": 81,
+        "ADAM C POWELL BL/W 128 ST, New York": 82,
+        "ADAM C POWELL BL/W 125 ST, New York": 83,
+        "ADAM C POWELL BL/W 122 ST, New York": 84,
+        "ADAM C POWELL BL/W 120 ST, New York": 85,
+        "ADAM C POWELL BL/W 116 ST, New York": 86,
+        "ADAM C POWELL BL/W 114 ST, New York": 87,
+        "ADAM C POWELL BL/W 112 ST, New York": 88,
+        "CENTRAL PK N/ADAM C POWELL BL, New York": 89,
+        "CENTRAL PK N/MALCOLM X BL, New York": 90,
+        "5 AV/EAST 109 ST, New York": 91,
+        "5 AV/E 108 ST, New York": 92,
+        "5 AV/E 106 ST, New York": 93,
+        "5 AV/E 104 ST, New York": 94,
+        "5 AV/E 102 ST, New York": 95,
+        "5 AV/E 98 ST, New York": 96,
+        "5 AV/E 96 ST, New York": 97,
+        "5 AV/E 94 ST, New York": 98,
+        "5 AV/E 92 ST, New York": 99,
+        "5 AV/E 90 ST, New York": 100,
+        "5 AV/E 87 ST, New York": 101,
+        "5 AV/E 84 ST, New York": 102,
+        "5 AV/E 81 ST, New York": 103,
+        "5 AV/W 78 ST, New York": 104,
+        "5 AV/E 77 ST, New York": 105,
+        "5 AV/E 75 ST, New York": 106,
+        "5 AV/E 72 ST, New York": 107,
+        "5 AV/E 69 ST, New York": 108,
+        "5 AV/W 66 ST, New York": 109,
+        "5 AV/E 63 ST, New York": 110,
+        "5 AV/E 61 ST, New York": 111,
+        "5 AV/W 59 ST, New York": 112,
+        "5 AV/W 56 ST, New York": 113,
+        "5 AV/W 52 ST, New York": 114,
+        "5 AV/W 50 ST, New York": 115,
+        "5 AV/W 46 ST, New York": 116,
+        "5 AV/W 44 ST, New York": 117,
+        "5 AV/W 41 ST, New York": 118,
+        "5 AV/W 38 ST, New York": 119,
+        "5 AV/W 35 ST, New York": 120,
+        "5 AV/W 33 ST, New York": 121,
+        "5 AV/W 31 ST, New York": 122,
+        "5 AV/W 29 ST, New York": 123,
+        "5 AV/W 26 ST, New York": 124,
+        "5 AV/W 23 ST, New York": 125,
+        "5 AV/W 20 ST, New York": 126,
+        "5 AV/W 17 ST, New York": 127,
+        "5 AV/W 13 ST, New York": 128,
+        "5 AV/W 12 ST, New York": 129,
+        "5 AV/W 10 ST, New York": 130,
+        "E 8 ST/5 AV, New York": 131,
+        "E 8 ST/UNIVERSITY PL, New York": 132,
+        "E 8 ST/MERCER ST, New York": 133,
+        "E 8 ST/LAFAYETTE ST, New York": 134,
+        "4 AV/E 9 ST, New York": 135,
+        "FT GEORGE AV/66 FORT GEORGE AV, New York": 136,
+        "ST NICHOLAS AV/FORT GEORGE HILL, New York": 137,
+        "ST NICHOLAS AV/W 192 ST, New York": 138,
+        "ST NICHOLAS AV/W 190 ST, New York": 139,
+        "ST NICHOLAS AV/W 187 ST, New York": 140,
+        "ST NICHOLAS AV/W 184 ST, New York": 141,
+        "ST NICHOLAS AV/W 181 ST, New York": 142,
+        "ST NICHOLAS AV/W 178 ST, New York": 143,
+        "ST NICHOLAS AV/W 174 ST, New York": 144,
+        "ST NICHOLAS AV/W 172 ST, New York": 145,
+        "ST NICHOLAS AV/W 164 ST, New York": 146,
+        "ST NICHOLAS AV/W 162 ST, New York": 147,
+        "AMSTERDAM AV/W 161 ST, New York": 148,
+        "AMSTERDAM AV/W 158 ST, New York": 149,
+        "W 155 ST/AMSTERDAM AV, New York": 150,
+        "ST NICHOLAS AV/W 152 ST, New York": 151,
+        "ST NICHOLAS AV/W 150 ST, New York": 152,
+        "ST NICHOLAS AV/W 148 ST, New York": 153,
+        "ST NICHOLAS AV/W 145 ST, New York": 154,
+        "ST NICHOLAS AV/W 142 ST, New York": 155,
+        "ST NICHOLAS AV/W 141 ST, New York": 156,
+        "ST NICHOLAS AV/W 138 ST, New York": 157,
+        "ST NICHOLAS AV/W 135 ST, New York": 158,
+        "ST NICHOLAS AV/W 133 ST, New York": 159,
+        "ST NICHOLAS AV/W 130 ST, New York": 160,
+        "ST NICHOLAS AV/W 128 ST, New York": 161,
+        "ST NICHOLAS AV/W 125 ST, New York": 162,
+        "MANHATTAN AV/W 122 ST, New York": 163,
+        "MANHATTAN AV/W 119 ST, New York": 164,
+        "MANHATTAN AV/W 116 ST, New York": 165,
+        "MANHATTAN AV/W 114 ST, New York": 166,
+        "MANHATTAN AV/W 112 ST, New York": 167,
+        "CATHEDRAL PKY/MANHATTAN AV, New York": 168,
+        "110 ST/CENTRAL PK W, New York": 169,
+        "CENTRAL PK N/5 AV, New York": 170,
+        "MARGARET CORBIN DR/CLOISTERS, New York": 171,
+        "FT TRYON PARK/CAFE LOT, New York": 172,
+        "FT WASHINGTON AV/CABRINI BL, New York": 173,
+        "FT WASHINGTON AV/W 190 ST, New York": 174,
+        "FT WASHINGTON AV/W 187 ST, New York": 175,
+        "FT WASHINGTON AV/W 185 ST, New York": 176,
+        "FT WASHINGTON AV/W 183 ST, New York": 177,
+        "FT WASHINGTON AV/W 181 ST, New York": 178,
+        "FT WASHINGTON AV/W 179 ST, New York": 179,
+        "FT WASHINGTON AV/W 177 ST, New York": 180,
+        "FT WASHINGTON AV/W 174 ST, New York": 181,
+        "FT WASHINGTON AV/W 172 ST, New York": 182,
+        "FT WASHINGTON AV/W 170 ST, New York": 183,
+        "FT WASHINGTON AV/W 168 ST, New York": 184,
+        "FT WASHINGTON AV/W 165 ST, New York": 185,
+        "FT WASHINGTON AV/W 164 ST, New York": 186,
+        "FT WASHINGTON AV/W 162 ST, New York": 187,
+        "FT WASHINGTON AV/W 160 ST, New York": 188,
+        "BROADWAY/W 157 ST, New York": 189,
+        "BROADWAY/W 155 ST, New York": 190,
+        "BROADWAY/W 152 ST, New York": 191,
+        "BROADWAY/W 150 ST, New York": 192,
+        "BROADWAY/W 147 ST, New York": 193,
+        "BROADWAY/W 145 ST, New York": 194,
+        "BROADWAY/W 142 ST, New York": 195,
+        "BROADWAY/W 140 ST, New York": 196,
+        "BROADWAY/W 138 ST, New York": 197,
+        "BROADWAY / W 135 ST, New York": 198,
+        "BROADWAY/W 133 ST, New York": 199,
+        "BROADWAY/W 129 ST, New York": 200,
+        "BROADWAY/TIEMANN PL, New York": 201,
+        "BROADWAY/W 122 ST, New York": 202,
+        "BROADWAY/WEST 120 ST, New York": 203,
+        "BROADWAY/W 116 ST, New York": 204,
+        "BROADWAY/W 114 ST, New York": 205,
+        "BROADWAY/W 112 ST, New York": 206,
+        "CATHEDRAL PY/BROADWAY, New York": 207,
+        "CATHEDRAL PKY/AMSTERDAM AV, New York": 208,
+        "CATHEDRAL PY/COLUMBUS AV, New York": 209,
+        "5 AV/W 49 ST, New York": 210,
+        "5 AV/W 36 ST, New York": 211,
+        "E 32 ST/5 AV, New York": 212
+    },
+    "routes": {
+        "M1": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60
+        ],
+        "M2": [
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70,
+            71,
+            72,
+            73,
+            74,
+            75,
+            76,
+            77,
+            78,
+            79,
+            80,
+            81,
+            82,
+            83,
+            84,
+            85,
+            86,
+            87,
+            88,
+            89,
+            90,
+            91,
+            92,
+            93,
+            94,
+            95,
+            96,
+            97,
+            98,
+            99,
+            100,
+            101,
+            102,
+            103,
+            104,
+            105,
+            106,
+            107,
+            108,
+            109,
+            110,
+            111,
+            112,
+            113,
+            114,
+            115,
+            116,
+            117,
+            118,
+            119,
+            120,
+            121,
+            122,
+            123,
+            124,
+            125,
+            126,
+            127,
+            128,
+            129,
+            130,
+            131,
+            132,
+            133,
+            134,
+            135
+        ],
+        "M3": [
+            136,
+            137,
+            138,
+            139,
+            140,
+            141,
+            142,
+            143,
+            144,
+            145,
+            62,
+            63,
+            146,
+            147,
+            148,
+            149,
+            150,
+            151,
+            152,
+            153,
+            154,
+            155,
+            156,
+            157,
+            158,
+            159,
+            160,
+            161,
+            162,
+            163,
+            164,
+            165,
+            166,
+            167,
+            168,
+            169,
+            89,
+            90,
+            170,
+            92,
+            93,
+            94,
+            95,
+            96,
+            97,
+            98,
+            99,
+            100,
+            101,
+            102,
+            103,
+            105,
+            106,
+            107,
+            108,
+            109,
+            110,
+            111,
+            112,
+            113,
+            114,
+            115,
+            116,
+            117,
+            118,
+            119,
+            120,
+            121,
+            122,
+            123,
+            124,
+            125,
+            126,
+            127,
+            128,
+            129,
+            130,
+            131,
+            133,
+            134
+        ],
+        "M4": [
+            171,
+            172,
+            173,
+            174,
+            175,
+            176,
+            177,
+            178,
+            179,
+            180,
+            181,
+            182,
+            183,
+            184,
+            185,
+            186,
+            187,
+            188,
+            189,
+            190,
+            191,
+            192,
+            193,
+            194,
+            195,
+            196,
+            197,
+            198,
+            199,
+            200,
+            201,
+            202,
+            203,
+            204,
+            205,
+            206,
+            207,
+            208,
+            209,
+            168,
+            169,
+            89,
+            90,
+            170,
+            92,
+            93,
+            94,
+            95,
+            96,
+            97,
+            98,
+            99,
+            100,
+            101,
+            102,
+            103,
+            105,
+            106,
+            107,
+            108,
+            109,
+            110,
+            111,
+            112,
+            113,
+            114,
+            210,
+            116,
+            117,
+            118,
+            119,
+            211,
+            212
+        ]
+    },
+    "filename": "StartingWorld.json"
+}

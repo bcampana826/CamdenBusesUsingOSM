@@ -3,7 +3,7 @@ import random
 import GraphCreation
 import GraphMethods
 
-world = GraphCreation.read_graph("worlds\\test.txt")
+world = GraphCreation.read_graph("worlds\\M1RouteLatLong.txt.txt")
 
 #bus = {'route': [0, 2, 4, 6, 8, 6, 4, 2, 0, 1, 3, 5, 7, 5, 3, 1, 0], 'battery': 5}
 # print(GraphMethods.validChargerLists(bus, world))
