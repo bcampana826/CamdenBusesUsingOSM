@@ -1,3 +1,6 @@
+import json
+
+
 def smartChargers(buses, world, battery):
     chargerList = []
 
@@ -37,6 +40,9 @@ def smartChargers(buses, world, battery):
 
 def smartRemoving(bus, chargerList, world, battery, inOrderList):
     # follow the bus path, remove from inOrderList
+    battery = battery*1609.34
+
+
     energy = 0
     for i in range(len(bus) - 1):
 
@@ -49,7 +55,10 @@ def smartRemoving(bus, chargerList, world, battery, inOrderList):
             if bus[i] in inOrderList:
                 inOrderList.remove(bus[i])
 
-        energy -= world.get(bus[i]).get(bus[i + 1])
+        energy -= int( world[str(bus[i+1])].get('prev_dist') )
         if energy < 0:
             energy = 0
 
+with open("worlds/StartingWorld2.json") as json_file:
+    world = json.load(json_file)
+print(smartChargers(world["routes"],world["stops"],5))

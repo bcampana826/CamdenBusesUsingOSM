@@ -1,0 +1,94 @@
+457
+Boscov's Garden Center >> 0.0
+Nixon Dr at East Gate Square# >> 0.5
+Nixon Dr at Loehmanns Plaza# >> 0.2
+Nixon Dr 200' S Of Harper Dr# >> 0.2
+Harper Dr at East Gate Dr# >> 0.3
+Harper Dr at Pleasant Valley Ave# >> 0.4
+Fellowship Rd at Pleasant Valley Ave# >> 0.1
+Fellowship Rd at East Gate Dr >> 0.4
+Fellowship Rd at West Park Dr >> 0.6
+Fellowship Rd & Century Parkway >> 0.4
+Church Rd at Roland Ave >> 0.4
+Church Rd at Oregon Ave >> 0.2
+Church Rd at Waverly Ave >> 0.3
+Church Rd at Cropwell Rd# >> 0.2
+Church Rd 1095' E Of Kings Croft Dr. >> 0.2
+Church Rd at Kings Croft Dr >> 0.2
+Church Rd at Kings Hwy >> 0.2
+Church Rd at Millstream Ln >> 0.3
+Church Rd at Plumm Ct >> 0.2
+Church Rd at South Lincoln Ave >> 0.2
+Church Rd at West Lake Dr >> 0.2
+Church Rd at Oak Ave >> 0.2
+Cooper Landing Rd at Mara Ct >> 0.8
+Cooper Landing Rd at Maple Ave >> 0.2
+Cooper Landing Rd at Katherine Ave >> 0.1
+Cooper Landing Rd at Maple Ter >> 0.1
+Cooper Landing Rd at Embassy Dr >> 0.1
+Cooper Landing Rd at Chapel Ave >> 0.2
+Chapel Ave at Windsor Dr >> 0.1
+Chapel Ave at Forge Ln  >> 0.2
+Chapel Ave at Bellows Ln >> 0.2
+Chapel Ave at Kings Highway >> 0.3
+Rt-41 at Chapel Ave >> 0.1
+Rt-41 at Chelten Pkwy >> 0.3
+Rt-41 225'N Of Daytona Ave >> 0.1
+Rt-41 at West Miami Ave >> 0.3
+Kings Highway at Nj 70 >> 0.4
+Kings Highway at Nevada Ave >> 0.6
+Kings Hwy at Utah Ave >> 0.1
+Kings Hwy at Winding Way >> 0.2
+Kings Hwy at Bel-Aire Ave >> 0.1
+Kings Hwy at Park Blvd >> 0.2
+Kings Hwy E at Hopkins Ln >> 0.2
+Kings Hwy E at Sylvan Lake Rd >> 0.1
+Kings Hwy E at Grove St >> 0.2
+Kings Hwy W at Tanner St >> 0.3
+Haddonfield Patco >> 0.2
+Kings Hwy W at Tanner St After Patco# >> 0.3
+Kings Hwy W at Estaugh Ave >> 0.3
+Kings Hwy W at Avondale Ave >> 0.2
+Kings Hwy W at Hinchman Ave N >> 0.4
+King's Highway at Lippincott Ave >> 0.3
+King's Highway at Crystal Lake Ave >> 0.2
+King's Highway at Amhurst Rd >> 0.1
+Kings Hwy at White Horse Pike >> 0.1
+King's Highway at Third Ave >> 0.2
+King's Highway at Wyoming Ave >> 0.2
+King's Highway at Cedarcroft Ave >> 0.2
+King's Highway at Edgewood Ave >> 0.1
+King's Highway at 13th Ave >> 0.1
+King's Highway at Hampshire Ave >> 0.2
+King's Highway at Hill Ave >> 0.2
+Kings Hwy at Black Horse Pike >> 0.2
+King's Highway at Oak Ave >> 0.4
+King's Highway at Market St >> 0.1
+Market St at Northmont Ave >> 0.1
+Market St at Weston Ave >> 0.3
+Market St at Baynes Ave >> 0.7
+Market St at Sparks Ave >> 0.2
+Market St at Washington St >> 0.3 
+Broadway at Monmouth St >> 0.3
+Broadway at Morris St. >> 0.3
+Broadway at Passaic >> 0.2
+Broadway 1500's Of Morgan Blvd >> 0.4
+Broadway at Morgan Blvd >> 0.4
+Broadway 700's Of Chelton Ave >> 0.2
+Broadway at Chelton Ave >> 0.1
+Broadway at Jefferson Ave >> 0.1
+Broadway at Viola St >> 0.1
+Broadway at Ferry Ave >> 0.1
+Broadway at Carl Miller Blvd >> 0.1
+Broadway at Jackson St >> 0.1
+Broadway at Everett St >> 0.1
+Broadway at Atlantic Ave >> 0.1
+Broadway at Kaighn Ave >> 0.1
+Broadway at Walnut St >> 0.2
+Broadway at Spruce St >> 0.1
+Broadway at Pine St >> 0.1
+Broadway at Royden St >> 0.1
+Broadway at Berkeley St >> 0.1
+Broadway at Benson St >> 0.1
+Broadway at Stevens St >> 0.1
+Broadway In Front Of Wrtc >> 0.1

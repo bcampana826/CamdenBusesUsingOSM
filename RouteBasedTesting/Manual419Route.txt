@@ -1,0 +1,62 @@
+419
+Gate #1 Inside the Wrtc >> 0.0
+Haddon Ave at Federal St >> 0.2 
+Haddon Ave at Cooper St >> 0.1
+7th St at Pearl St >> 0.3
+7th St at Vine St >> 0.2
+State St at 8th St >> 0.1
+State St at N 10th St >> 0.2
+State St at Continental Village East >> 0.2
+State St at Harrison Ave >> 0.1
+State St at Pierce Ave >> 0.1
+River Rd at State St >> 0.1
+River Ave at N 17th St >> 0.2
+River Ave at N 21 St St >> 0.2
+River Ave at N 25th St >> 0.2
+River Ave at N 27th St >> 0.1
+River Ave at N 29th St >> 0.2
+River Ave at Lois Ave >> 0.2
+River Ave at N 33rd St >> 0.2
+River Ave at N. 35th St >> 0.1
+River Rd at 37th St >> 0.2
+River Rd at Hillside Terrace >> 0.2
+River Rd at 47th St >> 0.2
+River Rd at 49th St >> 0.1
+River Rd at Tinsman Ave >> 0.1
+River Rd at Springfield Ave >> 0.1
+River Rd at Cove Rd >> 0.4
+River Rd at Bethel Ave >> 0.2
+River Rd at Sherman Ave >> 0.2
+Pennsauken Transit Center >> 0.4
+Westfield & Derouse >> 0.3
+River Rd at Velde Ave >> 0.1
+River Rd at Engard Ave >> 0.1
+River Rd at Delair Ave >> 0.1
+River Rd at Lenox Rd >> 0.1
+River Rd at June Rd >> 0.1
+River Rd at Union Ave >> 0.1
+River Rd at Barrows Rd >> 0.1
+River Rd at Bridgeview Rd >> 0.1
+River Rd at John Tipton Blvd >> 0.1
+River Rd at Griffith-Morgan Ln >> 0.2
+River Rd South Of Rt 73# >> 0.5
+Public Rd (Cr543) at Spring Garden St# >> 0.7
+Broad St at Market St# >> 0.2
+Broad St at Arch St >> 0.1
+Broad St at Delaware St# >> 0.3
+Broad St at Cinnaminson Ave >> 0.2
+Broad St at Morgan Ave# >> 0.1
+Broad St at Linden Ave# >> 0.3
+Broad St at Lippincott Ave# >> 0.2
+Broad St at Main St# >> 0.1
+Broad St at Cedar St# >> 0.1
+Broad St at Pompesse Ave# >> 0.2
+Broad St at Bellview Ave# >> 0.2
+Broad St at Snowden Ave# >> 0.1
+Broad St at Union Landing Rd# >> 0.4
+Broad St at Taylor's Ln# >> 2.4
+River Rd at Main St# >> 3.4
+River Rd at Norman Ave# >> 2.7
+River Rd at Chester Ave# >> 0.2
+Lafayette St at Fairview St >> 0.4
+Franklin St at Kossuth St# >> 0.3

@@ -1,0 +1,65 @@
+452
+Kroc Center >> 0.0
+State St at Pierce Ave >> 0.5
+State St at Harrison Ave >> 0.1
+26th St at Hayes Ave# >> 0.9
+27th St at Arthur Ave >> 0.1
+27th St at Sherman Ave >> 0.1
+27th St at Howell St >> 0.1
+27th St at High St >> 0.1
+27th St at Westfield Ave >> 0.1
+Baird Blvd at Carman St >> 0.1
+Baird Blvd at Marlton Ave >> 0.2
+Baird Blvd at Rand St >> 0.1
+Baird Blvd at Raritan St >> 0.1
+Baird Blvd at Park Blvd >> 0.6
+Kaighn Ave at Princess Ave. >> 0.4
+Kaighn Ave at Haddon Ave >> 0.1
+Kaighn Ave at Louis St >> 0.1
+Kaighn Ave at Mt. Ephraim Ave >> 0.2
+Kaighn Ave at S. 9th St >> 0.1
+Kaighn Ave at Maurice St >> 0.1
+Kaighn Ave at S. 7th St >> 0.1
+Kaighn Ave at Broadway >> 0.3
+Kaighn Ave at 4th Street >> 0.1
+Ferry Ave at Mechanic St >> 0.4
+Atlantic Ave at 4th St >> 0.3
+Broadway at Kaighn Ave >> 0.3
+Broadway at Walnut St >> 0.2
+Broadway at Spruce St >> 0.1
+Broadway at Pine St >> 0.1
+Broadway at Royden St >> 0.1
+Broadway at Berkeley St >> 0.1
+Broadway at Benson St >> 0.1
+Broadway at Stevens St >> 0.1
+Broadway In Front Of Wrtc >> 0.1
+Market St at N 6th St >> 0.2
+Market St at N. 4th St >> 0.2
+3rd St at Market St >> 0.1
+Adventure Aquarium >> 0.6
+Mlk Blvd 150' E Of Front St >> 0.5
+Market St at N 3rd St >> 0.4
+Market St at N. 2nd St >> 0.1
+Market St at N. Delaware Ave >> 0.1
+Delaware Ave at Cooper St >> 0.1
+Delaware Ave at Pearl St >> 0.2
+Delaware Ave at Elm St >> 0.1
+Front St at State St >> 0.2
+State St at 4th St >> 0.2
+State St at N. 5th St >> 0.1
+State St at N 6th St >> 0.1
+State St at 8th St >> 0.2
+State St at N 10th St >> 0.2
+State St at Continental Village East >> 0.2
+River Rd at State St >> 0.3
+River Ave at N 17th St >> 0.2
+River Ave at N 21 St St >> 0.2
+River Ave at N 25th St >> 0.2
+River Ave at N 27th St >> 0.1
+River Ave at N 29th St >> 0.2
+River Ave at Lois Ave >> 0.2
+River Ave at N 33rd St >> 0.2
+River Ave at N. 35th St >> 0.1
+River Rd at 37th St >> 0.2
+River Rd at Hillside Terrace >> 0.2
+36th St River Line Station >> 0.3
