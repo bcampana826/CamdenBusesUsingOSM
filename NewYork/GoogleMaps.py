@@ -15,7 +15,7 @@ def convertFileToRouteNYC(filename):
     lines = routeFile.readlines()
 
     for i in range(len(lines)):
-        if i != 0:
+        if i != 0 and len(lines[i])>5:
             route.append(lines[i].strip("\n") + ", New York")
 
     return route, lines[0].strip()

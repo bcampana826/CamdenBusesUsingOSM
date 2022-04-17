@@ -14,7 +14,8 @@ def print_map(world, route, chargers_in_id, picture_name):
 
     locations = []
     for j in route:
-        locations.append(world["stops"][str(j)].get("name"))
+        if len(locations) < 10:
+            locations.append(world["stops"][str(j)].get("name"))
 
 
 
@@ -31,7 +32,7 @@ def print_map(world, route, chargers_in_id, picture_name):
                      markers=markers,
                      path="color:0x0000ff|weight:2|" + "|".join(locations))
 
-    with open("driving_route_map3.jpg", "wb") as img:
+    with open("driving_route_map4.jpg", "wb") as img:
         for chunk in result_map:
             img.write(chunk)
 
