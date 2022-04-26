@@ -1,3 +1,5 @@
+from os import walk
+
 import matplotlib.pyplot as plt
 import numpy as np
 import json
@@ -66,5 +68,10 @@ def CreateWorld(listOfRoutes, worldName):
     return worldDictionary
 
 
-world = CreateWorld(["LatLong/M1Routelatlong.txt","LatLong/M2Routelatlong.txt","LatLong/M3Routelatlong.txt","LatLong/M4Routelatlong.txt"], "StartingWorld2")
+f = []
+for (dirpath,dirnames,filenames) in walk("LatLong/"):
+    for j in filenames:
+        f.append("LatLong/"+j)
+
+world = CreateWorld(f, "full-world")
 print(world)

@@ -1,7 +1,16 @@
 import json
 
 
-def smartChargers(buses, world, battery):
+def constraint_based_chargers(buses, world, battery):
+    """
+    Constraint based charger determining algorith
+
+    Essentially a list of constraints to reach each point in a route
+    need to create these constraints to give to a solver
+    """
+
+
+def original_greedy_chargers(buses, world, battery):
     chargerList = []
 
     all_chargers = []
@@ -40,8 +49,7 @@ def smartChargers(buses, world, battery):
 
 def smartRemoving(bus, chargerList, world, battery, inOrderList):
     # follow the bus path, remove from inOrderList
-    battery = battery*1609.34
-
+    battery = battery * 1609.34
 
     energy = 0
     for i in range(len(bus) - 1):
@@ -55,10 +63,33 @@ def smartRemoving(bus, chargerList, world, battery, inOrderList):
             if bus[i] in inOrderList:
                 inOrderList.remove(bus[i])
 
-        energy -= int( world[str(bus[i+1])].get('prev_dist') )
+        energy -= int(world[str(bus[i + 1])].get('prev_dist'))
         if energy < 0:
             energy = 0
 
-with open("worlds/StartingWorld2.json") as json_file:
+
+with open("worlds/full-world.json") as json_file:
     world = json.load(json_file)
-print(smartChargers(world["routes"],world["stops"],5))
+
+list = original_greedy_chargers(world["routes"], world["stops"], 5)
+
+print(len(list))
+print(list)
+
+str_list = []
+
+for l in list:
+    str_list.append(world["stops"][str(l)].get("name"))
+
+print(str_list)
+
+count = 0
+for p in world["routes"]:
+    print(p)
+    diction = dict()
+    diction[p] = world["routes"].get(p)
+
+    temp = original_greedy_chargers(diction, world["stops"],5)
+    count += len(temp)
+
+print(count)
