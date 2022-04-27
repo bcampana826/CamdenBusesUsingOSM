@@ -34,24 +34,41 @@ def method(world,battery):
     return combinations, scores, stops, constraints, target_distances
 
 
-with open("worlds/full-world.json") as json_file:
+with open("worlds/test.json") as json_file:
     world = json.load(json_file)
 
 combinations, scores, stops, constraints, target_distances = method(world,5)
 
+
 print(stops)
+
 # Resource and job sets
 R = constraints
 J = stops
+print(target_distances)
 
 # Declare and initialize model
 m = gp.Model('RAP')
 
 # Create decision variables for the RAP model
-x = m.addVars(combinations, name="assign")
+x = m.addVars(combinations, vtype=GRB.BINARY, name="assign")
 
 # ---------------------------------------------------------------
 # Create stop constraints
-jobs = m.addConstrs((x.sum('*',J[p]) == target_distances[p] for p in range(len(J))), name='stops')
+jobs = m.addConstrs((x.sum('*',J[p]) >= target_distances[p] for p in range(len(J))), name='stops')
 
+# Objective: maximize total matching score of all assignments
+m.setObjective(x.prod(scores), GRB.MINIMIZE)
 
+# Save model for inspection
+m.write('RAP.lp')
+
+# Run optimization engine
+m.optimize()
+
+# Display optimal values of decision variables
+for v in m.getVars():
+    print("{}: {}".format(v.varName, v.Xn))
+
+# Display optimal total matching score
+print('Total matching score: ', m.objVal)

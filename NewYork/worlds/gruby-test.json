@@ -1,0 +1,1095 @@
+{
+    "stops": {
+        "0": {
+            "name": "BROADWAY/W 220 ST, New York",
+            "lat": "40.8723112",
+            "long": "-73.9127579",
+            "prev_dist": "0"
+        },
+        "1": {
+            "name": "10 AV/W 214 ST, New York",
+            "lat": "40.5919443",
+            "long": "-73.9753644",
+            "prev_dist": "489"
+        },
+        "2": {
+            "name": "10 AV/W 211 ST, New York",
+            "lat": "40.867069",
+            "long": "-73.917053",
+            "prev_dist": "250"
+        },
+        "3": {
+            "name": "10 AV/W 207 ST, New York",
+            "lat": "40.8643855",
+            "long": "-73.9189755",
+            "prev_dist": "324"
+        },
+        "4": {
+            "name": "10 AV/W 204 ST, New York",
+            "lat": "40.862411",
+            "long": "-73.92057799999999",
+            "prev_dist": "370"
+        },
+        "5": {
+            "name": "10 AV/W 202 ST, New York",
+            "lat": "40.591926",
+            "long": "-73.97570309999999",
+            "prev_dist": "462"
+        },
+        "6": {
+            "name": "DYCKMAN ST/10 AV, New York",
+            "lat": "40.8589977",
+            "long": "-73.9229587",
+            "prev_dist": "296"
+        },
+        "7": {
+            "name": "DYCKMAN ST/NAGLE AV, New York",
+            "lat": "40.8615656",
+            "long": "-73.9247386",
+            "prev_dist": "325"
+        },
+        "8": {
+            "name": "DYCKMAN ST/SHERMAN AV, New York",
+            "lat": "40.8635409",
+            "long": "-73.9259965",
+            "prev_dist": "244"
+        },
+        "9": {
+            "name": "BROADWAY/RIVERSIDE DR, New York",
+            "lat": "40.8655401",
+            "long": "-73.92727289999999",
+            "prev_dist": "247"
+        },
+        "10": {
+            "name": "BROADWAY/DONGAN PL, New York",
+            "lat": "40.8634383",
+            "long": "-73.9300221",
+            "prev_dist": "336"
+        },
+        "11": {
+            "name": "BROADWAY/SHERMAN AV, New York",
+            "lat": "40.8621461",
+            "long": "-73.9300047",
+            "prev_dist": "145"
+        },
+        "12": {
+            "name": "BROADWAY/BENNETT AV, New York",
+            "lat": "40.8593477",
+            "long": "-73.93132969999999",
+            "prev_dist": "332"
+        },
+        "13": {
+            "name": "BROADWAY/W 192 ST, New York",
+            "lat": "40.8578415",
+            "long": "-73.9320552",
+            "prev_dist": "178"
+        },
+        "14": {
+            "name": "BROADWAY/W 190 ST, New York",
+            "lat": "40.8564944",
+            "long": "-73.93276469999999",
+            "prev_dist": "161"
+        },
+        "15": {
+            "name": "BROADWAY/W 189 ST, New York",
+            "lat": "40.8553112",
+            "long": "-73.93333",
+            "prev_dist": "140"
+        },
+        "16": {
+            "name": "BROADWAY/W 187 ST, New York",
+            "lat": "40.8541615",
+            "long": "-73.9337031",
+            "prev_dist": "132"
+        },
+        "17": {
+            "name": "BROADWAY/W 185 ST, New York",
+            "lat": "40.8527286",
+            "long": "-73.93444459999999",
+            "prev_dist": "171"
+        },
+        "18": {
+            "name": "BROADWAY/W 181 ST, New York",
+            "lat": "40.8502022",
+            "long": "-73.9357339",
+            "prev_dist": "301"
+        },
+        "19": {
+            "name": "BROADWAY/W 178 ST, New York",
+            "lat": "40.8484282",
+            "long": "-73.9376987",
+            "prev_dist": "258"
+        },
+        "20": {
+            "name": "BROADWAY/W 176 ST, New York",
+            "lat": "40.8469067",
+            "long": "-73.9382481",
+            "prev_dist": "176"
+        },
+        "21": {
+            "name": "BROADWAY/W 174 ST, New York",
+            "lat": "40.8454308",
+            "long": "-73.9386844",
+            "prev_dist": "168"
+        },
+        "22": {
+            "name": "BROADWAY/W 172 ST, New York",
+            "lat": "40.843961",
+            "long": "-73.9390287",
+            "prev_dist": "166"
+        },
+        "23": {
+            "name": "BROADWAY/W 170 ST, New York",
+            "lat": "40.8424412",
+            "long": "-73.9392503",
+            "prev_dist": "170"
+        },
+        "24": {
+            "name": "BROADWAY/W 168 ST, New York",
+            "lat": "40.8410387",
+            "long": "-73.939674",
+            "prev_dist": "176"
+        },
+        "25": {
+            "name": "W 166 ST/ST NICHOLAS AV, New York",
+            "lat": "40.8395743",
+            "long": "-73.9398884",
+            "prev_dist": "246"
+        },
+        "26": {
+            "name": "ST NICHOLAS AV/W 164 ST, New York",
+            "lat": "40.8377179",
+            "long": "-73.9399956",
+            "prev_dist": "208"
+        },
+        "27": {
+            "name": "ST NICHOLAS AV/W 162 ST, New York",
+            "lat": "40.8356603",
+            "long": "-73.939565",
+            "prev_dist": "249"
+        },
+        "28": {
+            "name": "AMSTERDAM AV/W 158 ST, New York",
+            "lat": "40.8335039",
+            "long": "-73.94157489999999",
+            "prev_dist": "237"
+        },
+        "29": {
+            "name": "AMSTERDAM AV/W 156 ST, New York",
+            "lat": "40.8322569",
+            "long": "-73.9424875",
+            "prev_dist": "158"
+        },
+        "30": {
+            "name": "AMSTERDAM AV/W 152 ST, New York",
+            "lat": "40.8296624",
+            "long": "-73.94436999999999",
+            "prev_dist": "329"
+        },
+        "31": {
+            "name": "AMSTERDAM AV/W 150 ST, New York",
+            "lat": "40.8284005",
+            "long": "-73.945302",
+            "prev_dist": "161"
+        },
+        "32": {
+            "name": "AMSTERDAM AV/W 148 ST, New York",
+            "lat": "40.8271476",
+            "long": "-73.9462162",
+            "prev_dist": "159"
+        },
+        "33": {
+            "name": "AMSTERDAM AV/W 145 ST, New York",
+            "lat": "40.8252439",
+            "long": "-73.947615",
+            "prev_dist": "242"
+        },
+        "34": {
+            "name": "AMSTERDAM AV/W 143 ST, New York",
+            "lat": "40.8239464",
+            "long": "-73.94855869999999",
+            "prev_dist": "165"
+        },
+        "35": {
+            "name": "AMSTERDAM AV/W 140 ST, New York",
+            "lat": "40.8220715",
+            "long": "-73.9499252",
+            "prev_dist": "238"
+        },
+        "36": {
+            "name": "AMSTERDAM AV/W 138 ST, New York",
+            "lat": "40.8208252",
+            "long": "-73.9508298",
+            "prev_dist": "158"
+        },
+        "37": {
+            "name": "AMSTERDAM AV/W 135 ST, New York",
+            "lat": "40.8189432",
+            "long": "-73.9522229",
+            "prev_dist": "240"
+        },
+        "38": {
+            "name": "AMSTERDAM AV/W 131 ST, New York",
+            "lat": "40.816361",
+            "long": "-73.95408900000001",
+            "prev_dist": "327"
+        },
+        "39": {
+            "name": "AMSTERDAM AV/W 129 ST, New York",
+            "lat": "40.8151225",
+            "long": "-73.9549904",
+            "prev_dist": "157"
+        },
+        "40": {
+            "name": "W 125 ST/AMSTERDAM AV, New York",
+            "lat": "40.8133758",
+            "long": "-73.9562662",
+            "prev_dist": "222"
+        },
+        "41": {
+            "name": "W 125 ST/MORNINGSIDE AV, New York",
+            "lat": "40.8113727",
+            "long": "-73.95401989999999",
+            "prev_dist": "299"
+        },
+        "42": {
+            "name": "W 125 ST/ST NICHOLAS AV, New York",
+            "lat": "40.8107718",
+            "long": "-73.95261459999999",
+            "prev_dist": "136"
+        },
+        "43": {
+            "name": "W 125 ST/FRED DOUGLASS BL, New York",
+            "lat": "40.810186",
+            "long": "-73.9511548",
+            "prev_dist": "139"
+        },
+        "44": {
+            "name": "W 125 ST/ADAM C POWELL BL, New York",
+            "lat": "40.808964",
+            "long": "-73.94831099999999",
+            "prev_dist": "281"
+        },
+        "45": {
+            "name": "W 125 ST/MALCOLM X BL, New York",
+            "lat": "40.8077584",
+            "long": "-73.945425",
+            "prev_dist": "272"
+        },
+        "46": {
+            "name": "E 125 ST/5 AV, New York",
+            "lat": "40.8064194",
+            "long": "-73.9422689",
+            "prev_dist": "305"
+        },
+        "47": {
+            "name": "E 125 ST/MADISON AV, New York",
+            "lat": "40.8057388",
+            "long": "-73.94065119999999",
+            "prev_dist": "156"
+        },
+        "48": {
+            "name": "E 125 ST/PARK AV, New York",
+            "lat": "40.8050123",
+            "long": "-73.9389017",
+            "prev_dist": "168"
+        },
+        "49": {
+            "name": "E 125 ST/LEXINGTON AV, New York",
+            "lat": "40.8043833",
+            "long": "-73.9374304",
+            "prev_dist": "142"
+        },
+        "50": {
+            "name": "3 AV/E 125 ST, New York",
+            "lat": "40.8037082",
+            "long": "-73.9358345",
+            "prev_dist": "154"
+        },
+        "51": {
+            "name": "E 127 ST/2 AV, New York",
+            "lat": "40.804081",
+            "long": "-73.9326758",
+            "prev_dist": "375"
+        },
+        "52": {
+            "name": "ST NICHOLAS AV/W 192 ST, New York",
+            "lat": "40.8561729",
+            "long": "-73.928685",
+            "prev_dist": "0"
+        },
+        "53": {
+            "name": "AMSTERDAM AV/W 190 ST, New York",
+            "lat": "40.8537229",
+            "long": "-73.92680039999999",
+            "prev_dist": "432"
+        },
+        "54": {
+            "name": "AMSTERDAM AV/W 188 ST, New York",
+            "lat": "40.8524934",
+            "long": "-73.9277036",
+            "prev_dist": "156"
+        },
+        "55": {
+            "name": "AMSTERDAM AV/W 185 ST, New York",
+            "lat": "40.8505235",
+            "long": "-73.9292055",
+            "prev_dist": "920"
+        },
+        "56": {
+            "name": "AMSTERDAM AV/W 184 ST, New York",
+            "lat": "40.8499169",
+            "long": "-73.92962589999999",
+            "prev_dist": "76"
+        },
+        "57": {
+            "name": "AMSTERDAM AV/W 181 ST, New York",
+            "lat": "40.8481001",
+            "long": "-73.9309153",
+            "prev_dist": "229"
+        },
+        "58": {
+            "name": "AMSTERDAM AV/W 178 ST, New York",
+            "lat": "40.8461712",
+            "long": "-73.93232789999999",
+            "prev_dist": "245"
+        },
+        "59": {
+            "name": "AMSTERDAM AV/W 175 ST, New York",
+            "lat": "40.8442465",
+            "long": "-73.9337161",
+            "prev_dist": "244"
+        },
+        "60": {
+            "name": "AMSTERDAM AV/W 172 ST, New York",
+            "lat": "40.84229990000001",
+            "long": "-73.93510549999999",
+            "prev_dist": "256"
+        },
+        "61": {
+            "name": "AMSTERDAM AV/W 170 ST, New York",
+            "lat": "40.8410587",
+            "long": "-73.9360248",
+            "prev_dist": "333"
+        },
+        "62": {
+            "name": "AMSTERDAM AV/W 168 ST, New York",
+            "lat": "40.8398924",
+            "long": "-73.9369682",
+            "prev_dist": "627"
+        },
+        "63": {
+            "name": "AMSTERDAM AV/W 165 ST, New York",
+            "lat": "40.8379811",
+            "long": "-73.93834489999999",
+            "prev_dist": "242"
+        },
+        "64": {
+            "name": "AMSTERDAM AV/W 161 ST, New York",
+            "lat": "40.83537219999999",
+            "long": "-73.9402121",
+            "prev_dist": "331"
+        },
+        "65": {
+            "name": "LEXINGTON AV/E 124 ST, New York",
+            "lat": "40.8037062",
+            "long": "-73.9379199",
+            "prev_dist": "228"
+        },
+        "66": {
+            "name": "LEXINGTON AV/E 122 ST, New York",
+            "lat": "40.802094",
+            "long": "-73.93914",
+            "prev_dist": "160"
+        },
+        "67": {
+            "name": "LEXINGTON AV/E 119 ST, New York",
+            "lat": "40.80019",
+            "long": "-73.94052099999999",
+            "prev_dist": "239"
+        },
+        "68": {
+            "name": "LEXINGTON AV/E 116 ST, New York",
+            "lat": "40.7984702",
+            "long": "-73.9416256",
+            "prev_dist": "141"
+        },
+        "69": {
+            "name": "LEXINGTON AV/E 114 ST, New York",
+            "lat": "40.797176",
+            "long": "-73.94274899999999",
+            "prev_dist": "188"
+        },
+        "70": {
+            "name": "LEXINGTON AV/E 110 ST, New York",
+            "lat": "40.7944646",
+            "long": "-73.94478",
+            "prev_dist": "298"
+        },
+        "71": {
+            "name": "LEXINGTON AV/E 106 ST, New York",
+            "lat": "40.79189299999999",
+            "long": "-73.946587",
+            "prev_dist": "320"
+        },
+        "72": {
+            "name": "LEXINGTON AV/E 104 ST, New York",
+            "lat": "40.7905971",
+            "long": "-73.9475911",
+            "prev_dist": "171"
+        },
+        "73": {
+            "name": "LEXINGTON AV/E 102 ST, New York",
+            "lat": "40.7893801",
+            "long": "-73.94847750000001",
+            "prev_dist": "160"
+        },
+        "74": {
+            "name": "LEXINGTON AV/E 100 ST, New York",
+            "lat": "40.7886092",
+            "long": "-73.9490521",
+            "prev_dist": "159"
+        },
+        "75": {
+            "name": "LEXINGTON AV/E 98 ST, New York",
+            "lat": "40.7873566",
+            "long": "-73.95001909999999",
+            "prev_dist": "159"
+        },
+        "76": {
+            "name": "LEXINGTON AV/E 96 ST, New York",
+            "lat": "40.785672",
+            "long": "-73.95107",
+            "prev_dist": "167"
+        },
+        "77": {
+            "name": "LEXINGTON AV/E 94 ST, New York",
+            "lat": "40.7842514",
+            "long": "-73.9522506",
+            "prev_dist": "165"
+        },
+        "78": {
+            "name": "LEXINGTON AV/E 92 ST, New York",
+            "lat": "40.78296820000001",
+            "long": "-73.9532002",
+            "prev_dist": "160"
+        },
+        "79": {
+            "name": "LEXINGTON AV/E 89 ST, New York",
+            "lat": "40.781132",
+            "long": "-73.954453",
+            "prev_dist": "239"
+        },
+        "80": {
+            "name": "LEXINGTON AV/E 86 ST, New York",
+            "lat": "40.7791863",
+            "long": "-73.9559599",
+            "prev_dist": "244"
+        },
+        "81": {
+            "name": "LEXINGTON AV/E 83 ST, New York",
+            "lat": "40.7772739",
+            "long": "-73.9573391",
+            "prev_dist": "250"
+        },
+        "82": {
+            "name": "LEXINGTON AV/E 79 ST, New York",
+            "lat": "40.7747494",
+            "long": "-73.9585635",
+            "prev_dist": "324"
+        },
+        "83": {
+            "name": "LEXINGTON AV/E 77 ST, New York",
+            "lat": "40.7733341",
+            "long": "-73.96020759999999",
+            "prev_dist": "171"
+        },
+        "84": {
+            "name": "LEXINGTON AV/E 74 ST, New York",
+            "lat": "40.7714532",
+            "long": "-73.9615951",
+            "prev_dist": "242"
+        },
+        "85": {
+            "name": "LEXINGTON AV/E 72 ST, New York",
+            "lat": "40.7692518",
+            "long": "-73.9594312",
+            "prev_dist": "167"
+        },
+        "86": {
+            "name": "LEXINGTON AV/E 70 ST, New York",
+            "lat": "40.7687949",
+            "long": "-73.963531",
+            "prev_dist": "167"
+        },
+        "87": {
+            "name": "LEXINGTON AV/E 68 ST, New York",
+            "lat": "40.7675112",
+            "long": "-73.9644575",
+            "prev_dist": "159"
+        },
+        "88": {
+            "name": "LEXINGTON AV/E 64 ST, New York",
+            "lat": "40.7650587",
+            "long": "-73.9662565",
+            "prev_dist": "318"
+        },
+        "89": {
+            "name": "LEXINGTON AV/E 62 ST, New York",
+            "lat": "40.7637144",
+            "long": "-73.9672301",
+            "prev_dist": "159"
+        },
+        "90": {
+            "name": "LEXINGTON AV/E 59 ST, New York",
+            "lat": "40.76182480000001",
+            "long": "-73.9686132",
+            "prev_dist": "239"
+        },
+        "91": {
+            "name": "LEXINGTON AV/E 56 ST, New York",
+            "lat": "40.760006",
+            "long": "-73.9699361",
+            "prev_dist": "251"
+        },
+        "92": {
+            "name": "LEXINGTON AV/E 52 ST, New York",
+            "lat": "40.75792089999999",
+            "long": "-73.9714532",
+            "prev_dist": "318"
+        },
+        "93": {
+            "name": "LEXINGTON AV/E 50 ST, New York",
+            "lat": "40.7566555",
+            "long": "-73.9723369",
+            "prev_dist": "158"
+        },
+        "94": {
+            "name": "LEXINGTON AV/E 49 ST, New York",
+            "lat": "40.7555454",
+            "long": "-73.9731884",
+            "prev_dist": "80"
+        },
+        "95": {
+            "name": "LEXINGTON AV/E 47 ST, New York",
+            "lat": "40.7543689",
+            "long": "-73.974046",
+            "prev_dist": "159"
+        },
+        "96": {
+            "name": "LEXINGTON AV/E 45 ST, New York",
+            "lat": "40.7530389",
+            "long": "-73.975014",
+            "prev_dist": "159"
+        },
+        "97": {
+            "name": "LEXINGTON AV/E 42 ST, New York",
+            "lat": "40.7510885",
+            "long": "-73.9764496",
+            "prev_dist": "244"
+        },
+        "98": {
+            "name": "LEXINGTON AV/E 40 ST, New York",
+            "lat": "40.7497942",
+            "long": "-73.9773776",
+            "prev_dist": "163"
+        },
+        "99": {
+            "name": "LEXINGTON AV/E 37 ST, New York",
+            "lat": "40.7482225",
+            "long": "-73.97851",
+            "prev_dist": "237"
+        },
+        "100": {
+            "name": "LEXINGTON AV/E 34 ST, New York",
+            "lat": "40.773008",
+            "long": "-73.96032",
+            "prev_dist": "240"
+        },
+        "101": {
+            "name": "LEXINGTON AV/E 31 ST, New York",
+            "lat": "40.74414669999999",
+            "long": "-73.9815098",
+            "prev_dist": "243"
+        },
+        "102": {
+            "name": "LEXINGTON AV/E 28 ST, New York",
+            "lat": "40.743302",
+            "long": "-73.9844222",
+            "prev_dist": "235"
+        },
+        "103": {
+            "name": "LEXINGTON AV/E 26 ST, New York",
+            "lat": "40.7410264",
+            "long": "-73.983778",
+            "prev_dist": "156"
+        },
+        "104": {
+            "name": "EAST 24 ST/LEXINGTON AV, New York",
+            "lat": "40.7401711",
+            "long": "-73.9842638",
+            "prev_dist": "158"
+        },
+        "105": {
+            "name": "3 AV/E 23 ST, New York",
+            "lat": "40.7388336",
+            "long": "-73.98315649999999",
+            "prev_dist": "237"
+        },
+        "106": {
+            "name": "3 AV/E 20 ST, New York",
+            "lat": "40.7369715",
+            "long": "-73.98451539999999",
+            "prev_dist": "237"
+        },
+        "107": {
+            "name": "3 AV/E 17 ST, New York",
+            "lat": "40.735227",
+            "long": "-73.985793",
+            "prev_dist": "222"
+        },
+        "108": {
+            "name": "3 AV/E 14 ST, New York",
+            "lat": "40.7332926",
+            "long": "-73.98718149999999",
+            "prev_dist": "245"
+        },
+        "109": {
+            "name": "3 AV/E 11 ST, New York",
+            "lat": "40.73132500000001",
+            "long": "-73.988613",
+            "prev_dist": "250"
+        },
+        "110": {
+            "name": "3 AV/ASTOR PL, New York",
+            "lat": "40.7295727",
+            "long": "-73.98991269999999",
+            "prev_dist": "223"
+        },
+        "111": {
+            "name": "W 146 ST/MALCOLM X BL, New York",
+            "lat": "40.8210844",
+            "long": "-73.9356888",
+            "prev_dist": "0"
+        },
+        "112": {
+            "name": "MALCOLM X BL/W 145 ST, New York",
+            "lat": "40.8204328",
+            "long": "-73.93617239999999",
+            "prev_dist": "268"
+        },
+        "113": {
+            "name": "MALCOLM X BL/W 142 ST, New York",
+            "lat": "40.8185395",
+            "long": "-73.9377063",
+            "prev_dist": "258"
+        },
+        "114": {
+            "name": "MALCOLM X BL/W 139 ST, New York",
+            "lat": "40.8166316",
+            "long": "-73.9389424",
+            "prev_dist": "564"
+        },
+        "115": {
+            "name": "MALCOLM X BL/W 137 ST, New York",
+            "lat": "40.8154428",
+            "long": "-73.9399722",
+            "prev_dist": "170"
+        },
+        "116": {
+            "name": "MALCOLM X BL/W 135 ST, New York",
+            "lat": "40.8140858",
+            "long": "-73.9407854",
+            "prev_dist": "179"
+        },
+        "117": {
+            "name": "MALCOLM X BL/W 132 ST, New York",
+            "lat": "40.8122298",
+            "long": "-73.942312",
+            "prev_dist": "257"
+        },
+        "118": {
+            "name": "MALCOLM X BL/W 129 ST, New York",
+            "lat": "40.81035809999999",
+            "long": "-73.9436824",
+            "prev_dist": "238"
+        },
+        "119": {
+            "name": "MALCOLM X BL/W 127 ST, New York",
+            "lat": "40.8090372",
+            "long": "-73.9444606",
+            "prev_dist": "779"
+        },
+        "120": {
+            "name": "MALCOLM X BL/W 124 ST, New York",
+            "lat": "40.8071317",
+            "long": "-73.94606209999999",
+            "prev_dist": "265"
+        },
+        "121": {
+            "name": "MALCOLM X BL/W 122 ST, New York",
+            "lat": "40.8058809",
+            "long": "-73.946961",
+            "prev_dist": "158"
+        },
+        "122": {
+            "name": "MALCOLM X B / W 119 ST, New York",
+            "lat": "40.7817983",
+            "long": "-73.8486582",
+            "prev_dist": "273"
+        },
+        "123": {
+            "name": "W 116 ST/MALCOLM X BL, New York",
+            "lat": "40.80200970000001",
+            "long": "-73.949623",
+            "prev_dist": "225"
+        },
+        "124": {
+            "name": "W 116 ST/5 AV, New York",
+            "lat": "40.80066679999999",
+            "long": "-73.94646399999999",
+            "prev_dist": "305"
+        },
+        "125": {
+            "name": "E 116 ST/MADISON AV, New York",
+            "lat": "40.7999961",
+            "long": "-73.94485279999999",
+            "prev_dist": "155"
+        },
+        "126": {
+            "name": "E 116 ST/PARK AV, New York",
+            "lat": "40.7992468",
+            "long": "-73.9430994",
+            "prev_dist": "169"
+        }
+    },
+    "name_to_id": {
+        "BROADWAY/W 220 ST, New York": 0,
+        "10 AV/W 214 ST, New York": 1,
+        "10 AV/W 211 ST, New York": 2,
+        "10 AV/W 207 ST, New York": 3,
+        "10 AV/W 204 ST, New York": 4,
+        "10 AV/W 202 ST, New York": 5,
+        "DYCKMAN ST/10 AV, New York": 6,
+        "DYCKMAN ST/NAGLE AV, New York": 7,
+        "DYCKMAN ST/SHERMAN AV, New York": 8,
+        "BROADWAY/RIVERSIDE DR, New York": 9,
+        "BROADWAY/DONGAN PL, New York": 10,
+        "BROADWAY/SHERMAN AV, New York": 11,
+        "BROADWAY/BENNETT AV, New York": 12,
+        "BROADWAY/W 192 ST, New York": 13,
+        "BROADWAY/W 190 ST, New York": 14,
+        "BROADWAY/W 189 ST, New York": 15,
+        "BROADWAY/W 187 ST, New York": 16,
+        "BROADWAY/W 185 ST, New York": 17,
+        "BROADWAY/W 181 ST, New York": 18,
+        "BROADWAY/W 178 ST, New York": 19,
+        "BROADWAY/W 176 ST, New York": 20,
+        "BROADWAY/W 174 ST, New York": 21,
+        "BROADWAY/W 172 ST, New York": 22,
+        "BROADWAY/W 170 ST, New York": 23,
+        "BROADWAY/W 168 ST, New York": 24,
+        "W 166 ST/ST NICHOLAS AV, New York": 25,
+        "ST NICHOLAS AV/W 164 ST, New York": 26,
+        "ST NICHOLAS AV/W 162 ST, New York": 27,
+        "AMSTERDAM AV/W 158 ST, New York": 28,
+        "AMSTERDAM AV/W 156 ST, New York": 29,
+        "AMSTERDAM AV/W 152 ST, New York": 30,
+        "AMSTERDAM AV/W 150 ST, New York": 31,
+        "AMSTERDAM AV/W 148 ST, New York": 32,
+        "AMSTERDAM AV/W 145 ST, New York": 33,
+        "AMSTERDAM AV/W 143 ST, New York": 34,
+        "AMSTERDAM AV/W 140 ST, New York": 35,
+        "AMSTERDAM AV/W 138 ST, New York": 36,
+        "AMSTERDAM AV/W 135 ST, New York": 37,
+        "AMSTERDAM AV/W 131 ST, New York": 38,
+        "AMSTERDAM AV/W 129 ST, New York": 39,
+        "W 125 ST/AMSTERDAM AV, New York": 40,
+        "W 125 ST/MORNINGSIDE AV, New York": 41,
+        "W 125 ST/ST NICHOLAS AV, New York": 42,
+        "W 125 ST/FRED DOUGLASS BL, New York": 43,
+        "W 125 ST/ADAM C POWELL BL, New York": 44,
+        "W 125 ST/MALCOLM X BL, New York": 45,
+        "E 125 ST/5 AV, New York": 46,
+        "E 125 ST/MADISON AV, New York": 47,
+        "E 125 ST/PARK AV, New York": 48,
+        "E 125 ST/LEXINGTON AV, New York": 49,
+        "3 AV/E 125 ST, New York": 50,
+        "E 127 ST/2 AV, New York": 51,
+        "ST NICHOLAS AV/W 192 ST, New York": 52,
+        "AMSTERDAM AV/W 190 ST, New York": 53,
+        "AMSTERDAM AV/W 188 ST, New York": 54,
+        "AMSTERDAM AV/W 185 ST, New York": 55,
+        "AMSTERDAM AV/W 184 ST, New York": 56,
+        "AMSTERDAM AV/W 181 ST, New York": 57,
+        "AMSTERDAM AV/W 178 ST, New York": 58,
+        "AMSTERDAM AV/W 175 ST, New York": 59,
+        "AMSTERDAM AV/W 172 ST, New York": 60,
+        "AMSTERDAM AV/W 170 ST, New York": 61,
+        "AMSTERDAM AV/W 168 ST, New York": 62,
+        "AMSTERDAM AV/W 165 ST, New York": 63,
+        "AMSTERDAM AV/W 161 ST, New York": 64,
+        "LEXINGTON AV/E 124 ST, New York": 65,
+        "LEXINGTON AV/E 122 ST, New York": 66,
+        "LEXINGTON AV/E 119 ST, New York": 67,
+        "LEXINGTON AV/E 116 ST, New York": 68,
+        "LEXINGTON AV/E 114 ST, New York": 69,
+        "LEXINGTON AV/E 110 ST, New York": 70,
+        "LEXINGTON AV/E 106 ST, New York": 71,
+        "LEXINGTON AV/E 104 ST, New York": 72,
+        "LEXINGTON AV/E 102 ST, New York": 73,
+        "LEXINGTON AV/E 100 ST, New York": 74,
+        "LEXINGTON AV/E 98 ST, New York": 75,
+        "LEXINGTON AV/E 96 ST, New York": 76,
+        "LEXINGTON AV/E 94 ST, New York": 77,
+        "LEXINGTON AV/E 92 ST, New York": 78,
+        "LEXINGTON AV/E 89 ST, New York": 79,
+        "LEXINGTON AV/E 86 ST, New York": 80,
+        "LEXINGTON AV/E 83 ST, New York": 81,
+        "LEXINGTON AV/E 79 ST, New York": 82,
+        "LEXINGTON AV/E 77 ST, New York": 83,
+        "LEXINGTON AV/E 74 ST, New York": 84,
+        "LEXINGTON AV/E 72 ST, New York": 85,
+        "LEXINGTON AV/E 70 ST, New York": 86,
+        "LEXINGTON AV/E 68 ST, New York": 87,
+        "LEXINGTON AV/E 64 ST, New York": 88,
+        "LEXINGTON AV/E 62 ST, New York": 89,
+        "LEXINGTON AV/E 59 ST, New York": 90,
+        "LEXINGTON AV/E 56 ST, New York": 91,
+        "LEXINGTON AV/E 52 ST, New York": 92,
+        "LEXINGTON AV/E 50 ST, New York": 93,
+        "LEXINGTON AV/E 49 ST, New York": 94,
+        "LEXINGTON AV/E 47 ST, New York": 95,
+        "LEXINGTON AV/E 45 ST, New York": 96,
+        "LEXINGTON AV/E 42 ST, New York": 97,
+        "LEXINGTON AV/E 40 ST, New York": 98,
+        "LEXINGTON AV/E 37 ST, New York": 99,
+        "LEXINGTON AV/E 34 ST, New York": 100,
+        "LEXINGTON AV/E 31 ST, New York": 101,
+        "LEXINGTON AV/E 28 ST, New York": 102,
+        "LEXINGTON AV/E 26 ST, New York": 103,
+        "EAST 24 ST/LEXINGTON AV, New York": 104,
+        "3 AV/E 23 ST, New York": 105,
+        "3 AV/E 20 ST, New York": 106,
+        "3 AV/E 17 ST, New York": 107,
+        "3 AV/E 14 ST, New York": 108,
+        "3 AV/E 11 ST, New York": 109,
+        "3 AV/ASTOR PL, New York": 110,
+        "W 146 ST/MALCOLM X BL, New York": 111,
+        "MALCOLM X BL/W 145 ST, New York": 112,
+        "MALCOLM X BL/W 142 ST, New York": 113,
+        "MALCOLM X BL/W 139 ST, New York": 114,
+        "MALCOLM X BL/W 137 ST, New York": 115,
+        "MALCOLM X BL/W 135 ST, New York": 116,
+        "MALCOLM X BL/W 132 ST, New York": 117,
+        "MALCOLM X BL/W 129 ST, New York": 118,
+        "MALCOLM X BL/W 127 ST, New York": 119,
+        "MALCOLM X BL/W 124 ST, New York": 120,
+        "MALCOLM X BL/W 122 ST, New York": 121,
+        "MALCOLM X B / W 119 ST, New York": 122,
+        "W 116 ST/MALCOLM X BL, New York": 123,
+        "W 116 ST/5 AV, New York": 124,
+        "E 116 ST/MADISON AV, New York": 125,
+        "E 116 ST/PARK AV, New York": 126
+    },
+    "routes": {
+        "M100": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51
+        ],
+        "M101": [
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60,
+            61,
+            62,
+            63,
+            64,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70,
+            71,
+            72,
+            73,
+            74,
+            75,
+            76,
+            77,
+            78,
+            79,
+            80,
+            81,
+            82,
+            83,
+            84,
+            85,
+            86,
+            87,
+            88,
+            89,
+            90,
+            91,
+            92,
+            93,
+            94,
+            95,
+            96,
+            97,
+            98,
+            99,
+            100,
+            101,
+            102,
+            103,
+            104,
+            105,
+            106,
+            107,
+            108,
+            109,
+            110
+        ],
+        "M102": [
+            111,
+            112,
+            113,
+            114,
+            115,
+            116,
+            117,
+            118,
+            119,
+            120,
+            121,
+            122,
+            123,
+            124,
+            125,
+            126,
+            68,
+            69,
+            70,
+            71,
+            72,
+            73,
+            74,
+            75,
+            76,
+            77,
+            78,
+            79,
+            80,
+            81,
+            82,
+            83,
+            84,
+            85,
+            86,
+            87,
+            88,
+            89,
+            90,
+            91,
+            92,
+            93,
+            94,
+            95,
+            96,
+            97,
+            98,
+            99,
+            100,
+            101,
+            102,
+            103,
+            104,
+            105,
+            106,
+            107,
+            108,
+            109,
+            110
+        ]
+    },
+    "filename": "gruby-test.json"
+}

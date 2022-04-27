@@ -70,8 +70,13 @@ def CreateWorld(listOfRoutes, worldName):
 
 f = []
 for (dirpath,dirnames,filenames) in walk("LatLong/"):
+    count = 0
     for j in filenames:
         f.append("LatLong/"+j)
+        count+=1
+        if count > 2:
+            break
 
-world = CreateWorld(f, "full-world")
+
+world = CreateWorld(f, "gruby-test")
 print(world)
