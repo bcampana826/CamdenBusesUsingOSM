@@ -16,15 +16,19 @@ def method(world,battery):
     for j in world["routes"]:
         temp_route = world["routes"][j]
         temp_dist = 0
-        for k in range(len(temp_route) - 1):
+        working_temp_route = []
+        for k in range(len(temp_route)-1):
             combo = str(temp_route[0]) + ">" + str(temp_route[k + 1])
             constraints.append(combo)
 
             temp_dist += int(world["stops"][str(k+1)]["prev_dist"])/1609
             target_distances.append(temp_dist)
 
+            working_temp_route.append(temp_route[k])
+
+
             for z in stops:
-                if int(z[1:]) in temp_route:
+                if int(z[1:]) in working_temp_route:
                     temp_dict[(combo, z)] = battery
                 else:
                     temp_dict[(combo, z)] = 0
@@ -41,34 +45,10 @@ combinations, scores, stops, constraints, target_distances = method(world,5)
 
 
 print(stops)
+print(combinations)
 
-# Resource and job sets
-R = constraints
-J = stops
+myList = []
+for i in scores:
+    myList.append(scores[i])
+print(myList)
 print(target_distances)
-
-# Declare and initialize model
-m = gp.Model('RAP')
-
-# Create decision variables for the RAP model
-x = m.addVars(combinations, vtype=GRB.BINARY, name="assign")
-
-# ---------------------------------------------------------------
-# Create stop constraints
-jobs = m.addConstrs((x.sum('*',J[p]) >= target_distances[p] for p in range(len(J))), name='stops')
-
-# Objective: maximize total matching score of all assignments
-m.setObjective(x.prod(scores), GRB.MINIMIZE)
-
-# Save model for inspection
-m.write('RAP.lp')
-
-# Run optimization engine
-m.optimize()
-
-# Display optimal values of decision variables
-for v in m.getVars():
-    print("{}: {}".format(v.varName, v.Xn))
-
-# Display optimal total matching score
-print('Total matching score: ', m.objVal)

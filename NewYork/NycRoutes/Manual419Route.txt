@@ -1,5 +1,5 @@
 419
-201 Mullica Hill Rd, Glassboro, NJ 08028 >> 0.0
+Gate #1 Inside the Wrtc >> 0.0
 Haddon Ave at Federal St >> 0.2 
 Haddon Ave at Cooper St >> 0.1
 7th St at Pearl St >> 0.3
